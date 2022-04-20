@@ -1,0 +1,222 @@
+NOMEFILE,ANNO,TIPO,rounds,liste_sindaco_preferenze_referendum_presidente,DATA,CITTA
+amm2001_ballottaggio.csv,2001,comunali,run-off,sindaco,2001-05-27,TORINO
+amm2001_circ10_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ1_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ2_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ3_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ4_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ5_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ6_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ7_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_circ8_elezione.csv,2001,municipali,single-round,liste,2001-05-13,TORINO
+amm2001_risultati_elezione_sindaco.csv,2001,comunali,first-round,sindaco,2001-05-13,TORINO
+amm2006_consiglio_elezione.csv,2006,comunali,single-round,liste,2006-05-28,TORINO
+amm2006_risultati_sindaco.csv,2006,comunali,first-round,sindaco,2006-05-28,TORINO
+amm2011_consiglio_elezione.csv,2011,comunali,single-round,liste,2011-05-15,TORINO
+amm2011_sindaco_elezione.csv,2011,comunali,single-round,liste,2011-05-15,TORINO
+amm2016_sindaco_ballottaggio.csv,2016,comunali,run-off,sindaco,2016-06-19,TORINO
+amm2016_sindaco_citta.csv,2016,comunali,first-round,sindaco,2016-06-05,TORINO
+amm2016_preferenze.csv,2016,comunali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ1_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ1_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ2_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ2_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ3_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ3_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ4_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ4_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ5_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ5_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ6_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ6_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ7_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ7_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+amm2016_circ8_elezione.csv,2016,municipali,single-round,liste,2016-06-05,TORINO
+amm2016_circ8_preferenze.csv,2016,municipali,single-round,preferenze,2016-06-05,TORINO
+liste_regionali2005.csv,2005,regionali,single round,liste,2005-04-04,ROMA
+camera_2006.csv,2006,camera,single round,liste,2006-04-09,ROMA
+comunali_sindaco_2008.csv,2008,comunali,first round,sindaco,2008-04-13,ROMA
+comunali_sindaco_ballotagio_2008.csv,2008,comunali,run-off,sindaco,2008-04-27,ROMA
+camera_2008.csv,2008,camera,single round,liste,2008-04-13,ROMA
+europee_liste_2009.csv,2009,europee,single round,liste,2009-05-25,ROMA
+comunali_sindaco_2013.csv,2013,comunali,first round,sindaco,2013-05-26,ROMA
+comunali_sindaco_ballotagio_2013.csv,2013,comunali,run-off,sindaco,2013-06-10,ROMA
+camera_2013.csv,2013,camera,single round,liste,2013-02-25,ROMA
+europee_liste_2014.csv,2014,europee,single round,liste,2014-05-25,ROMA
+comunali_sindaco_2016.csv,2016,comunali,first round,sindaco,2016-06-05,ROMA
+comunali_presidente_municipio_9_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_sindaco_ballotagio_2016.csv,2016,comunali,run-off,sindaco,2016-06-19,ROMA
+liste_regionali2018.csv,2018,regionali,single round,liste,2018-03-04,ROMA
+camera_2018_plurinominale.csv,2018,camera,single round,liste,2018-03-04,ROMA
+preferenze_regionali2018.csv,2018,regionali,single round,preferenze,2018-03-04,ROMA
+europee2019.csv,2019,europee,single round,liste,2019-05-26,ROMA
+comunali_sindaco_2021.csv,2021,comunali,first round,sindaco,2021-10-03,ROMA
+comunali_sindaco_ballotagio_2021.csv,2021,comunali,run-off,sindaco,2021-10-17,ROMA
+comunali_presidente_municipio_12_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_13_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_18_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_19_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_20_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_2_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_4_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_7_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_8_ballotagio_2008.csv,2008,municipali,run-off,presidente,2008-04-27,ROMA
+comunali_presidente_municipio_10_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_11_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_13_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_14_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_15_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_1_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_2_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_3_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_4_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_5_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_6_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_7_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_8_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_presidente_municipio_9_ballotagio_2013.csv,2013,municipali,run-off,presidente,2013-06-10,ROMA
+comunali_liste_2013.csv,2013,comunali,single round,liste,2013-05-26,ROMA
+comunali_presidente_municipio_11_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_12_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_13_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_14_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_15_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_1_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_2_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_3_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_4_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_5_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_6_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_7_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_presidente_municipio_8_ballotagio_2016.csv,2016,municipali,run-off,presidente,2016-06-19,ROMA
+comunali_liste_2016.csv,2016,comunali,single round,liste,2016-06-05,ROMA
+comunali_preferenze_2016.csv,2016,comunali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio01_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio02_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio03_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio04_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio05_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio06_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio07_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio08_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio09_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio11_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio12_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio13_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio14_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+comunali_preferenze_municipio_municipio15_2016.csv,2016,municipali,single round,preferenze,2016-06-05,ROMA
+liste_europee_2004.csv,2004,europee,single-round,liste,2004-06-12,MILANO
+liste_provincia_2005.csv,2005,provinciali,single-round,liste,2005-04-03,MILANO
+liste_regione_2005.csv,2005,regionali,single-round,liste,2005-04-03,MILANO
+referendum_accesso_procreazione_2005.csv,2005,referendum,single-round,referendum,2005-06-12,MILANO
+referendum_diritti_procreazione_2005.csv,2005,referendum,single-round,referendum,2005-06-12,MILANO
+referendum_fecondazione_procreazione_2005.csv,2005,referendum,single-round,referendum,2005-06-12,MILANO
+referendum_ricerca_procreazione_2005.csv,2005,referendum,single-round,referendum,2005-06-12,MILANO
+sindaco_comune_2006.csv,2006,comunali,first-round,sindaco,2006-05-28,MILANO
+liste_camera_2006.csv,2006,camera,single-round,liste,2006-04-09,MILANO
+liste_municipio_2006municipio_1.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_8.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_7.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_9.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_4.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_2.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_3.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_5.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_municipio_2006municipio_6.csv,2006,municipali,single-round,liste,2006-05-28,MILANO
+liste_senato_2006.csv,2006,senato,single-round,liste,2006-04-09,MILANO
+liste_camera_2008.csv,2008,camera,single-round,liste,2008-04-13,MILANO
+liste_senato_2008.csv,2008,senato,single-round,liste,2008-04-13,MILANO
+liste_europee_2009.csv,2009,europee,single-round,liste,2009-06-06,MILANO
+liste_provincia_2009.csv,2009,provinciali,single-round,liste,2009-06-06,MILANO
+liste_provincia_2009.csv,2009,provinciali,single-round,liste,2009-06-06,MILANO
+liste_provincia_ballottaggio_2009.csv,2009,provinciali,run-off,liste,2009-06-21,MILANO
+referendum_abolizione_senato_2009.csv,2009,referendum,single-round,referendum,2009-06-21,MILANO
+referendum_cand_multipla_2009.csv,2009,referendum,single-round,referendum,2009-06-21,MILANO
+referendum_collegamento_2009.csv,2009,referendum,single-round,referendum,2009-06-21,MILANO
+liste_provincia_2010.csv,2010,provinciali,single-round,liste,2010-03-28,MILANO
+liste_regione_2010.csv,2010,regionali,single-round,liste,2010-03-28,MILANO
+presidente_municipio_2011municipio_1.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_2.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_3.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_4.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_5.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_6.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_7.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_8.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+presidente_municipio_2011municipio_9.csv,2011,municipali,single-round,presidente,2011-05-15,MILANO
+sindaco_comune_2011.csv,2011,comunali,first-round,sindaco,2011-05-15,MILANO
+sindaco_comune_ballottaggio_2011.csv,2011,comunali,run-off,sindaco,2011-05-29,MILANO
+liste_comune_2011.csv,2011,comunali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_1.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_2.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_3.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_4.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_5.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_6.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_7.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_8.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+liste_municipio_2011municipio_9.csv,2011,municipali,single-round,liste,2011-05-15,MILANO
+referendum_acqua_privatizzazione_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_acqua_tariffe_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_expo_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_impedimento_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_navigli_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_nucleare_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_risparimo_energetico_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_traffico_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+referendum_verde_2011.csv,2011,referendum,single-round,referendum,2011-06-12,MILANO
+camera_liste_2013.csv,2013,camera,single-round,liste,2013-02-24,MILANO
+liste_provincia_2013.csv,2013,provinciali,single-round,liste,2013-05-26,MILANO
+liste_regione_2013.csv,2013,regionali,single-round,liste,2013-02-24,MILANO
+senato_liste_2013.csv,2013,senato,single-round,liste,2013-02-24,MILANO
+liste_europee_2014.csv,2014,europee,single-round,liste,2014-05-25,MILANO
+presidente_municipio_2016municipio_1.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_2.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_3.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_4.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_5.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_6.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_7.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_8.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+presidente_municipio_2016municipio_9.csv,2016,municipali,single-round,presidente,2016-06-05,MILANO
+sindaco_comune_2016.csv,2016,comunali,first-round,sindaco,2016-06-05,MILANO
+sindaco_comune_ballotaggio_2016.csv,2016,comunali,run-off,sindaco,2016-06-14,MILANO
+liste_comune_2016.csv,2016,comunali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_1.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_2.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_3.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_4.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_5.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_6.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_7.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_8.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+liste_municipio_2016municipio_9.csv,2016,municipali,single-round,liste,2016-06-05,MILANO
+referendum_costituzione_2016.csv,2016,referendum,single-round,referendum,2016-12-04,MILANO
+referendum_trivelle_2016.csv,2016,referendum,single-round,referendum,2016-12-04,MILANO
+candidati_camera_uninominale_2018.csv,2018,camera,single-round,deputati,2018-03-04,MILANO
+candidati_senato_uninominale_2018.csv,2018,senato,single-round,senatori,2018-03-04,MILANO
+liste_camera_uninominale_2018.csv,2018,camera,single-round,liste,2018-03-04,MILANO
+liste_provincia_2018.csv,2018,provinciali,single-round,liste,2018-03-04,MILANO
+liste_regione_2018.csv,2018,regionali,single-round,liste,2018-03-04,MILANO
+liste_senato_uninominale_2018.csv,2018,senato,single-round,liste,2018-03-04,MILANO
+liste_europee_2019.csv,2019,europee,single-round,liste,2019-05-26,MILANO
+presidente_municipio_2021municipio_1.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_2.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_3.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_4.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_5.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_6.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_7.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_8.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+presidente_municipio_2021municipio_9.csv,2021,municipali,single-round,presidente,2021-10-03,MILANO
+sindaco_comune_2021.csv,2021,comunali,first-round,sindaco,2021-10-03,MILANO
+liste_comune_2021.csv,2021,comunali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_1.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_2.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_3.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_4.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_5.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_6.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_7.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_8.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
+liste_municipio_2021municipio_9.csv,2021,municipali,single-round,liste,2021-10-03,MILANO
