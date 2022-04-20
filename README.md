@@ -18,6 +18,9 @@ Per la lista della descrizione dei singoli file dei risultati elettorali consult
 
 I dati contenuti nell'archivio sono il frutto di un lavoro di pulizia dei file originali disponibili nelle sezioni "open-data" dei vari comuni e possono essere facilmente "fusi" (merged) con gli shapefile utilizzando la chiave "SEZIONE" contenuta in tutti i file.
 
+## dati censimento per sezione
+La cartella  _censimento sezioni elettorali_ riporta per ogni citta il valore delle variabili censuarie ISTAT (2021) per ogni sezione elettorale calcolate con "aerial interpolation" . Oltre alle variabili standard fornite da ISTAT sono presenti anche una serie di indicatori (tasso di istruzione, cittadinanza etc...). La descrizione delle variabili è riportata nel file "tracciato_variabili.csv".
+
 ## F.A.Q.
 
 _A quale versione del viario elettorale corrispondono le sezioni elettorali?_ 
