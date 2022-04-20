@@ -1,3 +1,4 @@
+![immagine](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/immagine_copertina.PNG)
 # dati e shapefile delle sezioni elettorali italiane
 Questo repository contiene gli shapefile delle sezioni elettorali italiane insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano e Torino). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
