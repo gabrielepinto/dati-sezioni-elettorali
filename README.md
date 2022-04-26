@@ -24,7 +24,14 @@ La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/d
 
 ## F.A.Q.
 
-_A quale versione del viario elettorale corrispondono le sezioni elettorali?_ 
-L'ultima disponibile. Generalmente, Settembre 2021.
+_Come posso aprire gli shapefile delle sezioni elettorali?_
+Dopo aver scaricato gli shapefile dalla ![cartella](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali) questi possono essere aperti e visualizzati utilizznado qualsiasi software GIS open-source o a pagamento (es: ![QGIS](https://qgis.org/en/site/forusers/download.html)).
+In alternativa, gli shapefile possono essere letti "online" effettuando una richiesta direttamente al repository. Per un esempio con Python vedere ![questo notebook]!(esempio_aperutra_online).
+_A quale versione del viario elettorale corrispondono le sezioni elettorali?_  
+L'ultima disponibile. Generalmente, Settembre 2021. 
+
+_Qual'è la fonte dei risultati elettorali ?_ 
+La fonte sono le sezioni open-data dei comuni italiani. Poichè i comuni forniscono in dati in formati non inter-operabili questi sono stati "puliti" tramite varie procedure e ricondotti in unici file per ogni elezione. Ad esempio, l'archivio online del  ![comune di roma](https://www.elezioni.comune.roma.it/archivio.asp) con i risultati elettorali a livello di sezione è composta da oltre 5000 file excel (un file per ogni lista, etc...) che seguono (spesso) formattazioni diverse. Questi sono stati ricondotti ad un unico file per ogni elezione utilizzando per aumentarne la fruibilità. Ragionamenti simili valgono per i comuni di ![Torino](http://aperto.comune.torino.it/dataset?dcat_subtheme_it=0416+procedura+elettorale+e+voto) e ![Milano](https://dati.comune.milano.it/dataset?tags=elezione)
+
 
 
