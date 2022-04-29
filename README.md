@@ -2,12 +2,15 @@
 # dati e shapefile delle sezioni elettorali italiane
 Questo repository contiene gli shapefile delle sezioni elettorali italiane insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano e Torino). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
-I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in questo paper:
+I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in ![questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926):
 
-La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di ricerca e no-profit è permessa a titolo gratuito a conto che la fonte e l'autore siano espressamente citati. Per citare i dati utilizzare la seguente citazione:
+La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di ricerca e no-profit è permessa a titolo gratuito a conto che la fonte e l'autore siano espressamente citati. Per citare i dati utilizzare la seguente citazione: 
+ -Pinto, Gabriele, Building geolocated precinct boundaries from voter's address lists: the Italian case (April 29, 2022). Available at SSRN: https://ssrn.com/abstract=4096926
 
 L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
 
+## anteprima dati
+un app  per visualizzare in anteprima una parte dei dati è disponibile qui:https://sezionielettorali.herokuapp.com/
 
 ## shapefile
 Gli shapefile che geolocalizzano le aree in cui sono localizzate le sezioni elettorali possono essere trovate sotto la cartella ![shapefiles sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali).
