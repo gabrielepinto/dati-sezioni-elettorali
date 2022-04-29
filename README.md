@@ -5,6 +5,7 @@ Questo repository contiene gli shapefile delle sezioni elettorali italiane insie
 I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in ![questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926):
 
 La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di ricerca e no-profit è permessa a titolo gratuito a conto che la fonte e l'autore siano espressamente citati. Per citare i dati utilizzare la seguente citazione: 
+
  _Pinto, Gabriele, Building geolocated precinct boundaries from voter's address lists: the Italian case (April 29, 2022). Available at SSRN: https://ssrn.com/abstract=4096926_
 
 L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
