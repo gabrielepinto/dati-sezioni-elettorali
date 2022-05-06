@@ -28,6 +28,8 @@ La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/d
 
 ## F.A.Q.
 
+__per segnalare ulteriori F.A.Q. o segnalare errori/anomali nei dati aprire una ![issue](https://github.com/gabrielepinto/dati-sezioni-elettorali/issues) o scrivere a gabriele.pinto@uniroma1.it__
+
 1. _Come posso aprire gli shapefile delle sezioni elettorali?_
 Dopo aver scaricato gli shapefile dalla ![cartella](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali) questi possono essere aperti e visualizzati utilizzando qualsiasi software GIS open-source (es: ![QGIS](https://qgis.org/en/site/forusers/download.html)) o a pagamento in grado di aprire i file di tipo [ESRI shapefile](https://en.wikipedia.org/wiki/Shapefile).
 In alternativa, gli shapefile possono essere letti "online" effettuando una richiesta direttamente al repository. Per un esempio con Python vedere ![questo notebook di esempio](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/esempio_apertura_file.ipynb).
@@ -38,5 +40,33 @@ L'ultima disponibile. Generalmente, Settembre 2021.
 3. _Qual'è la fonte dei risultati elettorali ?_ 
 La fonte sono le sezioni open-data dei comuni italiani. Poichè i comuni forniscono in dati in formati non inter-operabili questi sono stati "puliti" tramite varie procedure e ricondotti in unici file per ogni elezione. Ad esempio, l'archivio online del  [comune di roma](https://www.elezioni.comune.roma.it/archivio.asp) con i risultati elettorali a livello di sezione contiene oltre 5000 file excel (un file per ogni lista, etc...) che seguono (spesso) formattazioni diverse. Questi sono stati ricondotti ad un unico file per ogni elezione per aumentarne la fruibilità. Ragionamenti simili valgono per i comuni di [Torino](http://aperto.comune.torino.it/dataset?dcat_subtheme_it=0416+procedura+elettorale+e+voto) e [Milano](https://dati.comune.milano.it/dataset?tags=elezione)
 
+4. _Come è calcolata l'AFFLUENZA ?_ 
+Per alcune città/round di elezioni i voti __nulli/bianchi/contestati__ non sono disponibili, ai fini di garantire omogeneità l'affluenza (colonna "AFFLUENZA") è sempre calcolata come somma del totale dei __voti validi__ (colonna "TOTALE") sul totale degli iscritti alla sezione in quell'anno. 
 
+5. _Perchè in alcune sezioni il valore dell'affluenza riporta dei valori anomali (es: maggiore di 1 o infinito)_?
+Per due motivi prevalenti:
+    1. sezioni speciali (ad es: seggi speciali come ospedali, caserme etc... dove non ci sono "iscritti")
+    2. errore materiale nell'archivio del comune (frequenti)
 
+6. _Quando verranno resi disponibili i dati di nuove città?_
+PRESTO. Non appena saranno disponibili i viari elettorali verranno aggiunte nuove città. A breve aggiungerò anche gli shapefile e i risultati per quelle città che hanno già un dataset geografico messo a disposizione dal comune (Genova, Firenze e Rimini).
+
+7. _Come vengono implementate le procedure/algoritmi  descritti nel  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926))?_
+Le due procedure sono state codificate in Python e possono essere celermente applicate direttamente al viario elettorale di qualsiasi città.
+
+8. _Si possono coprire tutte le città di Italia con questa procedura?_
+In teoria si...se fossero disponibili tutti i viari elettorali di tutti i (quasi 8000) comuni Italiani. Nella pratica, raccogliere tutti i viari elettorali dei comuni italiani è impresa ardua. D'altra parte, il valore informativo di questo tipo di dettaglio è rilevante solo per i comuni sopra determinate soglie dimensionali (es: con + di 20/30 sezioni - 15.000 abitanti - circa 500 comuni)
+
+9. _Perchè è tutto in italiano_ ?
+a breve pubblicheremo una versione inglese del readme
+
+10. _Esiste una classificazione dei partiti/candidati/liste ?_
+Si, a breve verrà pubblicato un file con una classificazione _grossolana_ dei candidati/partiti/liste per coalizioni di destra/sinistra/altro.
+
+11. _Posso unire i dataset con altre fonti (es: manifesto project, CLEA, anagrafe amministratori, etc...) ?_ 
+Al momento il procedimento non è così automatico per due motivi:
+    1. Molti candidati/partiti/liste che partecipano alle elezioni locali non sono presenti nei principali dataset internazionali.
+    2. I nomi dei candidati/partiti/liste non sono codificati in modo omogeneo (es: in un dataset ci può essere "PARTITO DEMOCRATICO", in altro "P.DEMOCRATICO"....etc..). Per ora sono stati lasciati così per rendere più facile rintracciare eventuali errori nella fase di pulizia del dato.
+
+12. _Il ministero dell'interno (DAIT-ELIGENDO) non raccoglie i dati a livello di sezione elettorale?_
+Secondo la risposta di un accesso civico il ministero dell'interno sta sperimentando la raccolta dei dati a livello di sezione elettorale. Quando e se questi dati verranno resi disponibili sarà più facile "fondere" gli shapefile con i risultati.
