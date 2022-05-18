@@ -10,6 +10,11 @@ La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di
 
 L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
 
+
+## aggiornamenti
+ultime città aggiunte: GENOVA, FIRENZE, MILANO, TORINO, ROMA
+città che verranno aggiunte (31/05/2022): PALERMO e BOLOGNA
+
 ## anteprima dati
 Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://sezionielettorali.herokuapp.com/ (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
 
