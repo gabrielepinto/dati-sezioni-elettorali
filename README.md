@@ -1,6 +1,6 @@
 ![immagine](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/immagine_copertina.PNG)
-# dati e shapefile delle sezioni elettorali italiane
-Questo repository contiene gli shapefile delle sezioni elettorali italiane insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova e Firenze). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
+# dati e shapefile delle sezioni elettorali italiane (SEI)
+Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova e Firenze). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
 I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in [questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926):
 
@@ -49,7 +49,7 @@ Per due motivi prevalenti:
     2. errore materiale nell'archivio del comune (frequenti)
 
 6. _Quando verranno resi disponibili i dati di nuove città?_
-PRESTO. Non appena saranno disponibili i viari elettorali verranno aggiunte nuove città. A breve aggiungerò anche gli shapefile e i risultati per quelle città che hanno già un dataset geografico messo a disposizione dal comune (Genova, Firenze e Rimini).
+a mano a mano che vengono ottenuti i viari elettorali (necessari al fine di costruire i poligoni delle sezioni).
 
 7. _Come vengono implementate le procedure/algoritmi  descritti nel  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926))?_
 Le due procedure sono state codificate in Python e possono essere celermente applicate direttamente al viario elettorale di qualsiasi città.
