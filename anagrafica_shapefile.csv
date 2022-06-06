@@ -7,3 +7,7 @@ torino;precincts_torino_voronoi;voronoi;https://github.com/gabrielepinto/dati-se
 torino;precincts_torino_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_torino_census;
 genova;precincts_genova_original;voronoi;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_genova_original;https://dati.comune.genova.it/dataset/elezioni-politiche-anno-2013/resource/9c97b994-27f6-40bd-b870-e440e2416805
 firenze;precincts_firenze_original;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_firenze_original;https://opendata.comune.fi.it/metarepo/categorylist?q=metarepo/datasetinfo&id=3870c875-d92d-41dd-b211-2f3433da8dfd
+bologna;precincts_torino_voronoi;voronoi;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_bologna_voronoi;
+bologna;precincts_torino_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_bologna_census;
+palermo;precincts_torino_voronoi;voronoi;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_palermo_voronoi;
+palermo;precincts_torino_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_palermo_census;
