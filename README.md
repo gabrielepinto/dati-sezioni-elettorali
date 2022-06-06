@@ -12,8 +12,8 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti
-ultimo aggiornamento: GENOVA, FIRENZE, MILANO, TORINO, ROMA, PALERMO (solo shapefile) E BOLOGNA (solo shapefile) 
-prossimo aggiornamento (08/06/2022): Risultati elettorali PALERMO e BOLOGNA
+ultimo aggiornamento: GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
+prossimo aggiornamento: risultati referendum e amministrative 12 giugno (quando disponibili) 
 
 ## anteprima dati
 Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://sezionielettorali.herokuapp.com/ (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
