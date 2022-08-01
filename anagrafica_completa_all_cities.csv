@@ -296,11 +296,11 @@ liste_municipio_2021municipio_6.csv,2021,municipali,single-round,liste,2021-10-0
 liste_municipio_2021municipio_7.csv,2021,municipali,single-round,liste,2021-10-03,MILANO,liste_municipio_2021municipio_7.csv2021_municipali_single-round_MILANO
 liste_municipio_2021municipio_8.csv,2021,municipali,single-round,liste,2021-10-03,MILANO,liste_municipio_2021municipio_8.csv2021_municipali_single-round_MILANO
 liste_municipio_2021municipio_9.csv,2021,municipali,single-round,liste,2021-10-03,MILANO,liste_municipio_2021municipio_9.csv2021_municipali_single-round_MILANO
-referendum_2020.csv,2020,referendum,single_round,referendum,2020-09-20,FIRENZE,referendum_2020.csv2020_referendum_single_round_FIRENZE
-regionali_presidente_2020.csv,2020,regionali,single_round,presidente,2020-09-20,FIRENZE,regionali_presidente_2020.csv2020_regionali_single_round_FIRENZE
-regionali_liste_2020.csv,2020,regionali,single_round,liste,2020-09-20,FIRENZE,regionali_liste_2020.csv2020_regionali_single_round_FIRENZE
+referendum_2020.csv,2020,referendum,single-round,referendum,2020-09-20,FIRENZE,referendum_2020.csv2020_referendum_single-round_FIRENZE
+regionali_presidente_2020.csv,2020,regionali,single-round,presidente,2020-09-20,FIRENZE,regionali_presidente_2020.csv2020_regionali_single-round_FIRENZE
+regionali_liste_2020.csv,2020,regionali,single-round,liste,2020-09-20,FIRENZE,regionali_liste_2020.csv2020_regionali_single-round_FIRENZE
 comunali_sindaco_2019.csv,2019,comunali,first-round,sindaco,2019-05-26,FIRENZE,comunali_sindaco_2019.csv2019_comunali_first-round_FIRENZE
-comunali_liste_2019.csv,2019,comunali,single_round,liste,2019-05-26,FIRENZE,comunali_liste_2019.csv2019_comunali_single_round_FIRENZE
+comunali_liste_2019.csv,2019,comunali,single-round,liste,2019-05-26,FIRENZE,comunali_liste_2019.csv2019_comunali_single-round_FIRENZE
 comunali_liste_2019_municipio_1.csv,2019,municipali,single-round,presidente,2019-05-26,FIRENZE,comunali_liste_2019_municipio_1.csv2019_municipali_single-round_FIRENZE
 comunali_liste_2019_municipio_2.csv,2019,municipali,single-round,presidente,2019-05-26,FIRENZE,comunali_liste_2019_municipio_2.csv2019_municipali_single-round_FIRENZE
 comunali_liste_2019_municipio_3.csv,2019,municipali,single-round,presidente,2019-05-26,FIRENZE,comunali_liste_2019_municipio_3.csv2019_municipali_single-round_FIRENZE
