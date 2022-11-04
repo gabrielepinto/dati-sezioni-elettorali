@@ -12,8 +12,8 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti
-ultimo aggiornamento: GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
-prossimo aggiornamento: risultati referendum e amministrative 12 giugno (quando disponibili) 
+ultimo aggiornamento: elezioni politiche 2023, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
+prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
 
 ## anteprima dati
 Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://sezionielettorali.herokuapp.com/ (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
@@ -23,7 +23,7 @@ Gli shapefile che geolocalizzano le aree in cui sono localizzate le sezioni elet
 Per ogni comune, sono presenti due tipi di file: "precincts_voronoi" e "precincts_census". La differenza tra i due file è da ricondurre alle due diverse procedure utilizzate per ricostruire i poligoni nelle sezioni (a partire dai viari elettorali ufficiali forniti dai comuni). Entrambe le procedure sono descritte estensivamente in [questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926). Alcuni comuni forniscono lo shapefile originale (es: Firenze e Genova) per questi comuni il nome del file è "precincts_original".  La lista completa può essere trovata nel file ![lista shapefile](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_shapefile.csv)
 
 ## risultati elettorali
-I risultati elettorali coprono un periodo che va (circa) dal 2001 al 2021 (in costante aggiornamento) per varie tipologie di elezioni a seconda della disponibilità dei dati ufficiali che variano da comune a comune. L'archivio include i risultati a livello di sezione per referendum, voti di preferenza, elezioni sub-comunali (municipi, circoscrizioni, etc...), comunali, politiche, regionali, europee... tutti i file possono essere scaricati dall'archivio in formato rar che trovate ![qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/risultati_elettorali.rar): 
+I risultati elettorali coprono un periodo che va (circa) dal 2001 al 2022 (in costante aggiornamento) per varie tipologie di elezioni a seconda della disponibilità dei dati ufficiali che variano da comune a comune. L'archivio include i risultati a livello di sezione per referendum, voti di preferenza, elezioni sub-comunali (municipi, circoscrizioni, etc...), comunali, politiche, regionali, europee... tutti i file possono essere scaricati dall'archivio in formato rar che trovate ![qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/risultati_elettorali.rar): 
 Per la lista della descrizione dei singoli file dei risultati elettorali consultare il file ![anagrafica completa](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_completa_all_cities.csv)
 
 I dati contenuti nell'archivio sono il frutto di un lavoro di pulizia dei file originali disponibili nelle sezioni "open-data" dei vari comuni e possono essere facilmente "fusi" (merged) con gli shapefile utilizzando la chiave "SEZIONE" contenuta in tutti i file.
