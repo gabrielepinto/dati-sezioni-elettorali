@@ -12,7 +12,7 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti
-ultimo aggiornamento: elezioni politiche 2023, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
+ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
 prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
 
 ## anteprima dati
