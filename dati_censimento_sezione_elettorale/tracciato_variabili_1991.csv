@@ -1,0 +1,217 @@
+NOME_CAMPO,DEFINIZIONE
+COD_PRO,Codice Provincia
+COD_COM,Codice Comune
+PRO_COM,Codice che identifica univocamente il 'comune' nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del codice provinciale e comunale
+SEZ1991,Codice che identifica univocamente la sezione di censimento 1991 nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del PRO_COM con il campo SEZIONE
+SEZIONE,Codice che identifica univocamente la sezione di censimento 1991 nell’ambito di ciascun comune.
+P1,Popolazione residente - Totale
+P2,Popolazione residente - Maschi
+P3,Popolazione residente - Femmine
+P4,Popolazione residente - Maschi Celibi
+P5,Popolazione residente - Maschi coniugati
+P6,Popolazione residente - Maschi Separati legalmente
+P7,Popolazione residente - Maschi Vedovi
+P8,Popolazione residente - Maschi Divorziati
+ P9  ,Popolazione residente - Femmine Nubili
+ P10 ,Popolazione residente - Femmine coniugati
+ P11 ,Popolazione residente - Femmine Separate legalmente
+ P12 ,Popolazione residente - Femmine Vedove
+ P13 ,Popolazione residente - femmine Divorziate
+P14,Popolazione residente - età < 5 anni
+P15,Popolazione residente - età 5 - 9 anni
+P16,Popolazione residente - età 10 - 14 anni
+P17,Popolazione residente - età 15 - 19 anni
+P18,Popolazione residente - età 20 - 24 anni
+P19,Popolazione residente - età 25 - 29 anni
+P20,Popolazione residente - età 30 - 34 anni
+P21,Popolazione residente - età 35 - 39 anni
+P22,Popolazione residente - età 40 - 44 anni
+P23,Popolazione residente - età 45 - 49 anni
+P24,Popolazione residente - età 50 - 54 anni
+P25,Popolazione residente - età 55 - 59 anni
+P26,Popolazione residente - età 60 - 64 anni
+P27,Popolazione residente - età 65 - 69 anni
+P28,Popolazione residente - età 70 - 74 anni
+P29,Popolazione residente - età > 74 anni
+P30,Popolazione residente  - età < 5 anni - Maschi
+P31,Popolazione residente  - età 5 - 9 anni - Maschi
+P32,Popolazione residente  - età 10 - 14 anni - Maschi
+P33,Popolazione residente  - età 15 - 19 anni - Maschi
+P34,Popolazione residente  - età 20 - 24 anni - Maschi
+P35,Popolazione residente  - età 25 - 29 anni - Maschi
+P36,Popolazione residente  - età 30 - 34 anni - Maschi
+P37,Popolazione residente  - età 35 - 39 anni - Maschi
+P38,Popolazione residente  - età 40 - 44 anni - Maschi
+P39,Popolazione residente  - età 45 - 49 anni - Maschi
+P40,Popolazione residente  - età 50 - 54 anni - Maschi
+P41,Popolazione residente  - età 55 - 59 anni - Maschi
+P42,Popolazione residente  - età 60 - 64 anni - Maschi
+P43,Popolazione residente  - età 65 - 69 anni - Maschi
+P44,Popolazione residente  - età 70 - 74 anni - Maschi
+P45,Popolazione residente  - età > 74 anni - Maschi
+P46,Popolazione residente di 6 anni e più -Totale
+P47,"Popolazione residente di 5 anni e più, Laurea o diploma universitario - Totale"
+P48,"Popolazione residente di 5 anni e più, Diploma di scuola secondaria superiore - Totale"
+P49,"Popolazione residente di 5 anni e più, Media inferiore - Totale"
+P50,"Popolazione residente di 5 anni e più, Licenza elementare - Totale"
+P51,"Popolazione residente di 5 anni e più, Alfabeti - Totale"
+P52,"Popolazione residente di 5 anni e più, Analfabeti - Totale"
+P53,Popolazione residente di 6 anni e più - Maschi
+P54,"Popolazione residente di 5 anni e più,  Laurea o diploma universitario - Maschi "
+P55,"Popolazione residente di 5 anni e più, Diploma di scuola secondaria superiore - Maschi"
+P56,"Popolazione residente di 5 anni e più, Media inferiore - Maschi"
+P57,"Popolazione residente di 5 anni e più, Licenza elementare - Maschi"
+P58,"Popolazione residente di 5 anni e più, Alfabeti - Maschi"
+P59,"Popolazione residente di 5 anni e più, Analfabeti - Maschi"
+P60,Popolazione residente attiva - Totale
+P61,Popolazione residente attiva - Occupati
+P62,Popolazione residente attiva - Disoccupati in cerca di nuova occupazione
+P63,Popolazione residente attiva in condizione professionale (occupati + disoccupati) - Totale
+P64,Popolazione residente attiva in cerca di prima occupazione - Totale
+P65,Popolazione residente non attiva - Totale
+P66,Popolazione residente attiva - Maschi
+P67,Popolazione residente attiva - Occupati Maschi
+P68,Popolazione residente attiva - Disoccupati  Maschi in cerca di nuova occupazione
+P69,Popolazione residente attiva in condizione professionale (occupati + disoccupati) - Maschi
+P70,Popolazione residente attiva in cerca di prima occupazione - Maschi
+P71,Popolazione residente non attiva - Maschi
+P72,"Popolazione residente attiva in condizione professionale per sez A,B - Agricoltura Totale"
+P73,"Popolazione residente attiva in condizione professionale per sez C,E - Industria (Estrazione, Produzione energia)"
+P74,Popolazione residente attiva in condizione professionale per sez D - Industria (Manifatturiere)
+P75,Popolazione residente attiva in condizione professionale per sez F - Industria (Costruzioni)
+P76,"Popolazione residente attiva in condizione professionale per sez G,H - Altre attività (Commercio/riparazioni, Alberghi/ristoranti)"
+P77,Popolazione residente attiva in condizione professionale per sez I - Altre attività (Trasporti/comunicazioni)
+P78,Popolazione residente attiva in condizione professionale per sez J - Altre attività (Intermediazione)
+P79,"Popolazione residente attiva in condizione professionale per sez K - Altre attività (Immobiliari, professionali, imprenditoriali)"
+P80,"Popolazione residente attiva in condizione professionale per sez L - Altre attività (Pubblica Amm., difesa, assicur. sociale)"
+P81,Popolazione residente attiva in condizione professionale per sez M - Altre attività (Istruzione)
+P82,"Popolazione residente attiva in condizione professionale per sez N - Altre Attività (Sanità, Servizi sociali)"
+P83,"Popolazione residente attiva in condizione professionale per sez O,P,Q - Altre attività (Servizi pubblici/domestici, org. extraterritoriali)"
+P84,"Popolazione residente attiva in condizione professionale - Maschi per sez A,B - Agricoltura totale"
+P85,"Popolazione residente attiva in condizione professionale - Maschi per sez C,E - Industria (Estrazione, Produzione energia)"
+P86,Popolazione residente attiva in condizione professionale - Maschi per sez D - Industria (Manifatturiere)
+P87,Popolazione residente attiva in condizione professionale - Maschi per sez F - Industria (Costruzioni)
+P88,"Popolazione residente attiva in condizione professionale - Maschi per sez G,H - Altre attività (Commercio/riparazioni, Alberghi/ristoranti)"
+P89,Popolazione residente attiva in condizione professionale - Maschi per sez I - Altre attività (Trasporti/comunicazioni)
+P90,Popolazione residente attiva in condizione professionale - Maschi per sez J - Altre attività (Intermediazione)
+P91,"Popolazione residente attiva in condizione professionale - Maschi per sez K - Altre attività (Immobiliari, professionali, imprenditoriali)"
+P92,"Popolazione residente attiva in condizione professionale - Maschi per sez L - Altre attività (Pubblica Amm., difesa, assicur. sociale)"
+P93,Popolazione residente attiva in condizione professionale - Maschi per sez M - Altre attività (Istruzione)
+P94,"Popolazione residente attiva in condizione professionale - Maschi per sez N - Altre Attività (Sanità, Servizi sociali)"
+P95,"Popolazione residente attiva in condizione professionale - Maschi per sez O,P,Q - Altre attività (Servizi pubblici/domestici, org. extraterritoriali)"
+P96,Imprenditori e liberi professionisti - Totale
+P97,Lavoratori in proprio  - Totale
+P98,Coadiuvanti - Totale
+P99,Dirigenti direttivi quadri - Totale
+P100,Impiegati - Totale
+P101,Lavoratori dipendenti - Totale
+P102,Imprenditori e liberi professionisti occupati in Agricoltura - Totale
+P103,Lavoratori in proprio in Agricoltura - Totale
+P104,Coadiuvanti in Agricoltura - Totale
+P105,Dirigenti direttivi quadri occupati in Agricoltura - Totale
+P106,Impiegati occupati in Agricoltura - Totale
+P107,Lavoratori dipendenti occupati in Agricoltura - Totale
+P108,Imprenditori e liberi professionisti occupati nell'Industria - Totale
+P109,Lavoratori in proprio occupati nell'Industria -Totale
+P110,Coadiuvanti occupati nell'Industria - Totale
+P111,Dirigenti direttivi quadri occupati nell'Industria- Totale
+P112,Impiegati occupati nell'Industria - Totale
+P113,Lavoratori dipendenti occupati nell'Industria - Totale
+P114,Imprenditori e liberi professionisti occupati in Altre attività - Totale
+P115,Lavoratori in proprio occupati in Altre attività - Totale
+P116,Coadiuvanti occupati in Altre attività - Totale
+P117,Dirigenti direttivi quadri occupati in Altre attività- Totale
+P118,Impiegati occupati in Altre attività - Totale
+P119,Lavoratori dipendenti occupati in Altre attività - Totale
+P120,Imprenditori e liberi professionisti  - Maschi
+P121,Lavoratori in proprio - Maschi
+P122,Coadiuvanti occupati - Maschi
+P123,Dirigenti direttivi quadri - Maschi
+P124,Impiegati - Maschi
+P125,Lavoratori dipendenti - Maschi
+P126,Imprenditori e liberi professionisti occupati in Agricoltura - Maschi
+P127,Lavoratori in proprio occupati in Agricoltura - Maschi
+P128,Coadiuvanti occupati in Agricoltura - Maschi
+P129,Dirigenti direttivi quadri occupati in Agricoltura - Maschi
+P130,Impiegati occupati in Agricoltura - Maschi
+P131,Lavoratori dipendenti occupati in Agricoltura - Maschi
+P132,Imprenditori e liberi professionisti occupati nell'Industria - Maschi
+P133,Lavoratori in proprio occupati nell'Industria - Maschi
+P134,Coadiuvanti occupati nell'Industria - Maschi
+P135,Dirigenti direttivi quadri occupati nell'Industria - Maschi
+P136,Impiegati occupati nell'industria - Maschi
+P137,Lavoratori dipendenti occupati nell'Industria - Maschi
+P138,Imprenditori e liberi professionisti occupati in Altre attività - Maschi
+ P139,Lavoratori in proprio occupati in Altre attività - Maschi
+ P140,Coadiuvanti occupati in Altre attività - Maschi
+ P141,Dirigenti direttivi quadri occupati in Altre attività- Maschi
+ P142,Impiegati occupati in Altre attività - Maschi
+ P143,Lavoratori dipendenti occupati in Altre attività - Maschi
+ P144,Popolazione residente con meno di 14 anni - Totale
+ P145,Popolazione residente con meno di 14 anni - Maschi
+ P146,Popolazione residente non attiva di 14 anni e più - Totale
+ P147,Popolazione residente non attiva di 14 anni e più - Maschi
+ P148,"Popolazione residente non attiva di 14 anni e più, casalinghe - Totale"
+ P149,"Popolazione residente non attiva di 14 anni e più, studenti - Totale"
+ P150,"Popolazione residente non attiva di 14 anni e più, studenti - Maschi"
+ P151,"Popolazione residente non attiva di 14 anni  e più, ritirata dal lavoro - Totale"
+ P152,"Popolazione residente non attiva di 14 anni  e più, ritirata dal lavoro - Maschi"
+ P153,"Popolazione residente non attiva di 14 anni e più, altri - Totale"
+ P154,"Popolazione residente non attiva di 14 anni e più, altri - Maschi"
+ P155,Popolazione residente non attiva - Totale
+ P156,Popolazione residente non attiva - Maschi
+A1,Abitazioni totali
+A2,Abitazioni occupate
+A3,Abitazioni non occupate
+A4,Altri tipi di alloggio
+A5,Stanze in totale
+A6,Stanze in abitazioni occupate
+A7,Stanze in abitazioni non occupate
+A8,Abitazioni occupate in proprietà
+A9,Abitazioni occupate in affitto
+A10,Abitazioni occupate ad altro titolo
+A11,Abitazioni occupate costruite prima del 1919
+A12,Abitazioni occupate costruite tra il 1919 e il 1945
+A13,Abitazioni occupate costruite tra il 1946 e il 1961
+A14,Abitazioni occupate costruite tra il 1962 e il 1971
+A15,Abitazioni occupate costruite tra il 1972 e il 1981
+A16,Abitazioni occupate costruite dopo il 1981
+A17,Abitazioni occupate con una stanza
+A18,Abitazioni occupate con 2 stanze
+A19,Abitazioni occupate con 3 stanze
+A20,Abitazioni occupate con 4 stanze
+A21,Abitazioni occupate con 5 stanze
+A22,Abitazioni occupate con 6 stanze e più
+A23,Abitazioni fornite di acqua potabile
+A24,Abitazioni fornite di gabinetto
+A25,Abitazioni fornite di bagno
+A26,Abitazioni fornite di impianto di riscaldamento 
+A27,Abitazioni fornite di una linea telefonica fissa attiva
+A28,Abitazioni senza acqua potabile e gabinetto
+PF1,Famiglie residenti totale
+PF2,Totale componenti delle famiglie residenti
+PF3,Famiglie residenti con un componente
+PF4,Famiglie residenti con 2 componenti
+PF5,Famiglie residenti con 3 componenti
+PF6,Famiglie residenti con 4 componenti
+PF7,Famiglie residenti con 5 componenti
+PF8,Famiglie residenti con 6 componenti
+PF9,Famiglie residenti con 7 componenti
+PF10,Famiglie residenti con 8 e oltre componenti
+ST01 ,Numero totale di stranieri - Europa
+ST06 ,Numero totale di stranieri - Africa
+ST09 ,Numero totale di stranieri - America
+ST12 ,Numero totale di stranieri - Asia
+ST13 ,Numero totale di stranieri - Australia Oceania e altri
+ST14 ,Numero totale di stranieri - Apolidi
+ST15 ,Numero totale di stranieri
+ST16 , Stranieri residenti totali               
+education,tasso laureati P47/P1
+male_share,tasso Maschi P47/P1
+marital_status,tasso sposati P8/P1
+employment,tasso occupati P61/P60
+citizenship,tasso cittadinanza italiana ST1/P1
+student,tasso studenti P131/P1
+children,tasso famiglie con bambini (PF3+PF4)/PF1
+age_over78,tasso over 75 P29/P1
+under_35,under 35 P20/P1

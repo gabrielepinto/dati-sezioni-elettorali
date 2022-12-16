@@ -11,8 +11,9 @@ La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di
 L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
 
 
-## aggiornamenti
-ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni)  
+## aggiornamenti/updates
+ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni) 
+!!! in data 16/12/2022 sono stati aggiornati i file dei dati di censimento che contenevano un errore. Inoltre sono stati aggiunti i dati per i censimenti del 1991 e 2001. 
 prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
 
 ## anteprima dati
@@ -29,7 +30,7 @@ Per la lista della descrizione dei singoli file dei risultati elettorali consult
 I dati contenuti nell'archivio sono il frutto di un lavoro di pulizia dei file originali disponibili nelle sezioni "open-data" dei vari comuni e possono essere facilmente "fusi" (merged) con gli shapefile utilizzando la chiave "SEZIONE" contenuta in tutti i file.
 
 ## dati censimento per sezione
-La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/dati_censimento_sezione_elettorale) riporta per ogni citta il valore delle variabili censuarie ISTAT (2011) per ogni sezione elettorale calcolate con interpolazione spaziale . Oltre alle variabili standard fornite da ISTAT sono presenti anche una serie di indicatori (tasso di istruzione, cittadinanza etc...). La descrizione delle variabili è riportata nel file "tracciato_variabili.csv".
+La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/dati_censimento_sezione_elettorale) riporta per ogni citta il valore delle variabili censuarie ISTAT (1991,2001,2011) per ogni sezione elettorale calcolate con interpolazione spaziale. Oltre alle variabili standard fornite da ISTAT sono presenti anche una serie di indicatori (tasso di istruzione, cittadinanza etc...). La descrizione delle variabili è riportata nel file "tracciato_variabili.csv".
 
 ## F.A.Q.
 

@@ -341,6 +341,9 @@ comunali_2009_liste.csv,2009,comunali,single-round,liste,2009-06-06,FIRENZE,comu
 senato_2008_liste.csv,2008,senato,single-round,liste,2008-04-13,FIRENZE,senato_2008_liste.csv2008_senato_single-round_FIRENZE
 camera_2008_liste.csv,2008,camera,single-round,liste,2008-04-13,FIRENZE,camera_2008_liste.csv2008_camera_single-round_FIRENZE
 camera_2022.csv,2022,camera,single-round,liste,2022-09-25,FIRENZE,camera_2022.csv2022_camera_single-round_FIRENZE
+regionali_preferenze_2020.csv,2020,regionali,single-round,preferenze,2020-09-20,GENOVA,regionali_preferenze_2020.csv2020_regionali_single-round_GENOVA
+regionali_presidente_2020.csv,2020,regionali,single-round,presidente,2020-09-20,GENOVA,regionali_presidente_2020.csv2020_regionali_single-round_GENOVA
+regionali_liste_2020.csv,2020,regionali,single-round,liste,2020-09-20,GENOVA,regionali_liste_2020.csv2020_regionali_single-round_GENOVA
 camera_liste_2022.csv,2022,camera,single-round,liste,2022-09-25,GENOVA,camera_liste_2022.csv2022_camera_single-round_GENOVA
 europee_preferenze_2019.csv,2019,europee,single-round,preferenze,2019-05-26,GENOVA,europee_preferenze_2019.csv2019_europee_single-round_GENOVA
 europee_liste_2019.csv,2019,europee,single-round,liste,2019-05-26,GENOVA,europee_liste_2019.csv2019_europee_single-round_GENOVA
