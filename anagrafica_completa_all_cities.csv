@@ -341,7 +341,9 @@ comunali_2009_liste.csv,2009,comunali,single-round,liste,2009-06-06,FIRENZE,comu
 senato_2008_liste.csv,2008,senato,single-round,liste,2008-04-13,FIRENZE,senato_2008_liste.csv2008_senato_single-round_FIRENZE
 camera_2008_liste.csv,2008,camera,single-round,liste,2008-04-13,FIRENZE,camera_2008_liste.csv2008_camera_single-round_FIRENZE
 camera_2022.csv,2022,camera,single-round,liste,2022-09-25,FIRENZE,camera_2022.csv2022_camera_single-round_FIRENZE
+camera_liste_2022.csv,2022,camera,single-round,liste,2022-09-25,GENOVA,camera_liste_2022.csv2022_camera_single-round_GENOVA
 europee_preferenze_2019.csv,2019,europee,single-round,preferenze,2019-05-26,GENOVA,europee_preferenze_2019.csv2019_europee_single-round_GENOVA
+europee_liste_2019.csv,2019,europee,single-round,liste,2019-05-26,GENOVA,europee_liste_2019.csv2019_europee_single-round_GENOVA
 senato_liste_2018.csv,2018,senato,single-round,liste,2018-03-04,GENOVA,senato_liste_2018.csv2018_senato_single-round_GENOVA
 camera_liste_2018.csv,2018,camera,single-round,liste,2018-03-04,GENOVA,camera_liste_2018.csv2018_camera_single-round_GENOVA
 comunali_sindaco_2017.csv,2017,comunali,first-round,sindaco,2017-06-11,GENOVA,comunali_sindaco_2017.csv2017_comunali_first-round_GENOVA
@@ -399,14 +401,13 @@ regionali_liste_2010.csv,2010,regionali,single-round,liste,2010-03-28,GENOVA,reg
 referendum_referendum_2009_referendumcamera_collegamento.csv,2009,referendum,single-round,referendum,2009-06-21,GENOVA,referendum_referendum_2009_referendumcamera_collegamento.csv2009_referendum_single-round_GENOVA
 referendum_referendum_2009_referendumsenato_collegamento.csv,2009,referendum,single-round,referendum,2009-06-21,GENOVA,referendum_referendum_2009_referendumsenato_collegamento.csv2009_referendum_single-round_GENOVA
 referendum_referendum_2009_referendumcamera_doppia.csv,2009,referendum,single-round,referendum,2009-06-21,GENOVA,referendum_referendum_2009_referendumcamera_doppia.csv2009_referendum_single-round_GENOVA
-europee_liste_2009.csv,2009,europee,single-round,liste,2009-06-06,GENOVA,europee_liste_2009.csv2009_europee_single-round_GENOVA
+europee_liste_2009.csv,2009,europee,single-round,liste,2009-07-06,GENOVA,europee_liste_2009.csv2009_europee_single-round_GENOVA
 senato_liste_2008.csv,2008,senato,single-round,liste,2008-04-13,GENOVA,senato_liste_2008.csv2008_senato_single-round_GENOVA
 camera_liste_2008.csv,2008,camera,single-round,liste,2008-04-13,GENOVA,camera_liste_2008.csv2008_camera_single-round_GENOVA
 referendum_referendum_2006.csv,2006,referendum,single-round,referendum,2006-06-25,GENOVA,referendum_referendum_2006.csv2006_referendum_single-round_GENOVA
 senato_liste_2006.csv,2006,senato,single-round,liste,2006-04-09,GENOVA,senato_liste_2006.csv2006_senato_single-round_GENOVA
 camera_liste_2006.csv,2006,camera,single-round,liste,2006-04-09,GENOVA,camera_liste_2006.csv2006_camera_single-round_GENOVA
 regionali_liste_2005.csv,2005,regionali,single-round,liste,2005-04-03,GENOVA,regionali_liste_2005.csv2005_regionali_single-round_GENOVA
-camera_liste_2022.csv,2022,camera,single-round,liste,2022-09-25,GENOVA,camera_liste_2022.csv2022_camera_single-round_GENOVA
 senato_liste_2006.csv,2006,senato,single-round,liste,2006-04-09,PALERMO,senato_liste_2006.csv2006_senato_single-round_PALERMO
 comune_preferenze_liste_2012.csv,2012,comunali,single-round,preferenze,2012-05-06,PALERMO,comune_preferenze_liste_2012.csv2012_comunali_single-round_PALERMO
 camera_liste_2013.csv,2013,camera,single-round,liste,2013-02-24,PALERMO,camera_liste_2013.csv2013_camera_single-round_PALERMO

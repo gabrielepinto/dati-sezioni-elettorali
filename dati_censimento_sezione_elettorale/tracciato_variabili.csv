@@ -1,4 +1,16 @@
-SEZIONE, Sezione elettorale del comune
+NOME_CAMPO,DEFINIZIONE
+CODREG,Codice numerico che identifica univocamente la regione nell’ambito del territorio nazionale
+REGIONE,Denominazione della regione
+CODPRO,Codice numerico che identifica univocamente la provincia nell’ambito del territorio nazionale
+PROVINCIA,Denominazione della provincia
+CODCOM,Codice numerico che identifica univocamente il comune nell’ambito del territorio provinciale
+COMUNE,Denominazione del comune
+PROCOM,Codice numerico che identifica univocamente il comune nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del campo CODPRO con il campo CODCOM a tre digit
+SEZ2011,Codice numerico che identifica univocamente la sezione di censimento 2011 nell’ambito del territorio nazionale. Il valore è ottenuto dalla concatenazione del campo PROCOM con il campo NSEZ a 7 digit
+NSEZ,"Numero che identifica univocamente la sezione di censimento 2011 nell’ambito del territorio comunale. Con riferimento alle zone in contestazione, nel caso ci siano degli individui residenti nel comune a cui la sezione non è assegnata, viene indicata una sezione fittizia con codice 9999999 o 9999998 con gli individui residenti. Le sezioni di censimento con codice 8888881, 8888882, etc. (fino a 8888889) sono sezioni fittizie, utilizzate per collocare le persone “senza tetto” iscritte in anagrafe a un indirizzo convenzionale stabilito dal Comune. In queste sezioni vengono collocati anche eventuali senza tetto iscritti in anagrafe presso associazioni o strutture di accoglienza. Fanno eccezione le persone senza tetto censite a Roma Capitale che, se iscritte in anagrafe presso associazioni o strutture di accoglienza, in accordo con l’Ufficio Comunale di Censimento, sono state collocate nelle sezioni di pertinenza delle stesse associazioni. I codici 7777777, presenti nel file relativo ai dati del censimento 2011 della Regione Abruzzo, individuano sezioni fittizie presenti nei comuni colpiti dagli eventi sismici dell'aprile 2009. Queste sezioni sono state utilizzate per collocare le famiglie che alla data del censimento erano temporaneamente domiciliate in un comune diverso da quello di iscrizione anagrafica, come stabilito dall'Istat con apposita circolare (circolare n. 7 del 20 luglio 2011, prot. n. 5839), secondo quanto previsto dal Piano Generale di Censimento"
+ACE,Numero che identifica univocamente l'area di censimento nell’ambito del territorio comunale
+CODLOC,Codice numerico che identifica la località 2011 nell’ambito del territorio comunale. Il codice è composto da 5 cifre (Es. 10001). Il primo posto è riservato alla tipologia di località (vedere la descrizione del campo TIPOLOC nel file di diffusione per località)
+CODASC,"Codice numerico che identifica univocamente l'area subcomunale, ove presente, nell’ambito del territorio comunale"
 P1,Popolazione residente - totale
 P2,Popolazione residente - maschi
 P3,Popolazione residente - femmine
