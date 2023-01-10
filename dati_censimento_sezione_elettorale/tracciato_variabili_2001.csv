@@ -212,3 +212,9 @@ student,tasso studenti P131/P1
 children,tasso famiglie con bambini (PF3+PF4)/PF1
 age_over78,tasso over 75 P29/P1
 under_35,under 35 P20/P1
+male_not_educated,male_not_educated
+commuter,commuter
+family_rent,family_rent
+unipersonal_family,unipersonal_family
+large_family,large_family
+new_building,new_building

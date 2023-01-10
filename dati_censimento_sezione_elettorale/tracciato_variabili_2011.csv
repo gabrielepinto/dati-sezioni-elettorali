@@ -152,6 +152,7 @@ E29,Edifici ad uso residenziale con stato di conservazione buono
 E30,Edifici ad uso residenziale con stato di conservazione mediocre
 E31,Edifici ad uso residenziale con stato di conservazione pessimo
 education,tasso laureati P47/P1
+foreigners,tasso stranieri ST15/P1
 male_share,tasso Maschi P47/P1
 marital_status,tasso sposati P8/P1
 employment,tasso occupati P61/P60
@@ -161,3 +162,11 @@ student,tasso studenti P131/P1
 children,tasso famiglie con bambini (PF3+PF4)/PF1
 age_over78,tasso over 75 P29/P1
 under_35,under 35 P20/P1
+male_not_educated,male_not_educated
+commuter,commuter
+family_rent,family_rent
+rent_ownership_ratio,rent_ownership_ratio
+unipersonal_family,unipersonal_family
+large_family,large_family
+degraded_building,degraded_building
+new_building,new_building

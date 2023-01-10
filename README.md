@@ -17,7 +17,7 @@ ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, 
 prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
 
 ## anteprima dati
-Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://sezionielettorali.herokuapp.com/ (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
+Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://gabrielepinto-dashboard-sezioni-elettorali-appstreamlite-4t5mbj.streamlit.app// (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
 
 ## shapefile
 Gli shapefile che geolocalizzano le aree in cui sono localizzate le sezioni elettorali possono essere trovate sotto la cartella ![shapefiles sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali).
