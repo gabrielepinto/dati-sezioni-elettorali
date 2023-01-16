@@ -204,6 +204,7 @@ ST05,Stranieri in Italia - Oceania
 ST06,Apolidi residenti in Italia
 ST07,Stranieri residenti in Italia - Totale
 education,tasso laureati P47/P1
+foreigners,tasso stranieri ST07/P1
 male_share,tasso Maschi P47/P1
 marital_status,tasso sposati P8/P1
 employment,tasso occupati P61/P60
@@ -214,7 +215,6 @@ age_over78,tasso over 75 P29/P1
 under_35,under 35 P20/P1
 male_not_educated,male_not_educated
 commuter,commuter
-family_rent,family_rent
 unipersonal_family,unipersonal_family
 large_family,large_family
 new_building,new_building
