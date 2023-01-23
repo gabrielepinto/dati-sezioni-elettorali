@@ -1,5 +1,5 @@
 ![immagine](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/immagine_copertina.PNG)
-# TL;DR
+# Where I can download the data?
 To download electoral data at the precinct level click [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/risultati_elettorali.rar).   
 Description of each file contained in the zipped archive can be found [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_completa_all_cities.csv).  
 Precincts shapefile can be found [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali).  
@@ -25,6 +25,8 @@ ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, 
 !!! in data 16/12/2022 sono stati aggiornati i file dei dati di censimento che contenevano un errore. Inoltre sono stati aggiunti i dati per i censimenti del 1991 e 2001. 
 prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
 
+Per vedere la lista completa degli anni/elezioni attualmente disponibili vedi [qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/dati_disponibili.xlsx)
+
 ## anteprima dati
 Per avere un idea del tipo di dati messo a disposizione è disponibile un app che mostra un'anteprima dei risultati per le elezioni comunali 2016 e 2021. Per accedervi cliccare qui :https://gabrielepinto-dashboard-sezioni-elettorali-appstreamlite-4t5mbj.streamlit.app// (N.B. l'app mostra solo una parte dei risultati elettorali disponibili)
 
@@ -35,11 +37,11 @@ Per ogni comune, sono presenti due tipi di file: "precincts_voronoi" e "precinct
 ## risultati elettorali
 I risultati elettorali coprono un periodo che va (circa) dal 2001 al 2022 (in costante aggiornamento) per varie tipologie di elezioni a seconda della disponibilità dei dati ufficiali che variano da comune a comune. L'archivio include i risultati a livello di sezione per referendum, voti di preferenza, elezioni sub-comunali (municipi, circoscrizioni, etc...), comunali, politiche, regionali, europee... tutti i file possono essere scaricati dall'archivio in formato rar che trovate ![qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/risultati_elettorali.rar): 
 Per la lista della descrizione dei singoli file dei risultati elettorali consultare il file ![anagrafica completa](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_completa_all_cities.csv)
-
+Per vedere la lista completa degli anni/elezioni attualmente disponibili vedi [qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/dati_disponibili.xlsx)
 I dati contenuti nell'archivio sono il frutto di un lavoro di pulizia dei file originali disponibili nelle sezioni "open-data" dei vari comuni e possono essere facilmente "fusi" (merged) con gli shapefile utilizzando la chiave "SEZIONE" contenuta in tutti i file.
 
 ## dati censimento per sezione
-La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/dati_censimento_sezione_elettorale) riporta per ogni citta il valore delle variabili censuarie ISTAT (1991,2001,2011) per ogni sezione elettorale calcolate con interpolazione spaziale. Oltre alle variabili standard fornite da ISTAT sono presenti anche una serie di indicatori (tasso di istruzione, cittadinanza etc...). La descrizione delle variabili è riportata nel file "tracciato_variabili.csv".
+La cartella  ![censimento sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/dati_censimento_sezione_elettorale) riporta per ogni citta il valore delle variabili censuarie ISTAT (1991,2001,2011) per ogni sezione elettorale calcolate con interpolazione spaziale. Oltre alle variabili standard fornite da ISTAT sono presenti anche una serie di indicatori (tasso di istruzione, cittadinanza etc...). La descrizione delle variabili è riportata nel file "tracciato_variabili.csv" [2011](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/dati_censimento_sezione_elettorale/tracciato_variabili_2011.csv),[2001](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/dati_censimento_sezione_elettorale/tracciato_variabili_2001.csv),[1991](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/dati_censimento_sezione_elettorale/tracciato_variabili_1991.csv).
 
 ## F.A.Q.
 
