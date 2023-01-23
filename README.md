@@ -2,8 +2,8 @@
 # TL;DR
 To download electoral data at the precinct level click [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/risultati_elettorali.rar).   
 Description of each file contained in the zipped archive can be found [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_completa_all_cities.csv).  
-Precincts shapefile can be found [here] (https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali):  
-In case you need GeoJSON check  [here] (https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali_geojson)
+Precincts shapefile can be found [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali).  
+In case you need GeoJSON check  [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali_geojson)
 
 Please remember to cite the source:
  _Pinto, Gabriele, How to build geocoded precinct boundaries from address lists: the Italian case (April 29, 2022). Available at SSRN:_ [https://ssrn.com/abstract=4096926]
