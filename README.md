@@ -21,9 +21,9 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti/updates
-ultimo aggiornamento: elezioni politiche 2022, GENOVA, FIRENZE, MILANO, TORINO, ROMA, BOLOGNA e PALERMO (poche elezioni) 
+ultimo aggiornamento: elezioni regionali 2023. Sono stati aggiunti i risultati per sezioni delle elezioni regionali 2023 nel Lazio e in Lombardia. 
 !!! in data 16/12/2022 sono stati aggiornati i file dei dati di censimento che contenevano un errore. Inoltre sono stati aggiunti i dati per i censimenti del 1991 e 2001. 
-prossimo aggiornamento: regionali 2023 (marzo 2023 o quando disponibili) 
+prossimo aggiornamento: europee 2024
 
 Per vedere la lista completa degli anni/elezioni attualmente disponibili vedi [qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/dati_disponibili.xlsx)
 
