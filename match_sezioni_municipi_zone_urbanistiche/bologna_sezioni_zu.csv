@@ -1,0 +1,437 @@
+SEZIONE,codice_quartiere,nome_quartiere,nome_zona,nome_area_statistica,codice_area_statistica
+1.0,13,Porto - Saragozza,Malpighi,MALPIGHI-1,78
+3.0,13,Porto - Saragozza,Malpighi,MALPIGHI-1,78
+2.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+4.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+5.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+6.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+7.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+8.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+9.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+10.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+11.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+12.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+13.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+14.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+15.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+16.0,13,Porto - Saragozza,Malpighi,MALPIGHI-2,77
+17.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+18.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+19.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+20.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+21.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+22.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+23.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+24.0,13,Porto - Saragozza,Costa Saragozza,SAN GIUSEPPE,73
+25.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+26.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+27.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+30.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+31.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+32.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+33.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+34.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+35.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+37.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+38.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+39.0,13,Porto - Saragozza,Costa Saragozza,XXI APRILE,72
+28.0,13,Porto - Saragozza,Costa Saragozza,RAVONE,74
+36.0,13,Porto - Saragozza,Costa Saragozza,RAVONE,74
+29.0,13,Porto - Saragozza,Costa Saragozza,VIA DEL GENIO,75
+40.0,13,Porto - Saragozza,Costa Saragozza,SAN LUCA,76
+44.0,13,Porto - Saragozza,Costa Saragozza,SAN LUCA,76
+41.0,13,Porto - Saragozza,Costa Saragozza,STADIO-MELONCELLO,71
+42.0,13,Porto - Saragozza,Costa Saragozza,STADIO-MELONCELLO,71
+43.0,13,Porto - Saragozza,Costa Saragozza,STADIO-MELONCELLO,71
+45.0,13,Porto - Saragozza,Marconi,MARCONI-1,30
+49.0,13,Porto - Saragozza,Marconi,MARCONI-1,30
+50.0,13,Porto - Saragozza,Marconi,MARCONI-1,30
+46.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+47.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+48.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+51.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+52.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+53.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+54.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+55.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+56.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+57.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+58.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+59.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+60.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+61.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+62.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+74.0,13,Porto - Saragozza,Marconi,MARCONI-2,29
+63.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+64.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+66.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+67.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+68.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+69.0,13,Porto - Saragozza,Saffi,VIA VITTORIO VENETO,35
+65.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+75.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+76.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+77.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+79.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+80.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+81.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+82.0,13,Porto - Saragozza,Saffi,ZANARDI,33
+70.0,13,Porto - Saragozza,Saffi,VELODROMO,34
+71.0,13,Porto - Saragozza,Saffi,VELODROMO,34
+72.0,13,Porto - Saragozza,Saffi,VELODROMO,34
+73.0,13,Porto - Saragozza,Saffi,VELODROMO,34
+78.0,13,Porto - Saragozza,Saffi,PRATI DI CAPRARA-OSPEDALE MAGGIORE,31
+83.0,13,Porto - Saragozza,Saffi,SCALO RAVONE,32
+84.0,15,Santo Stefano,Irnerio,IRNERIO-1,60
+85.0,15,Santo Stefano,Irnerio,IRNERIO-1,60
+86.0,15,Santo Stefano,Irnerio,IRNERIO-1,60
+90.0,15,Santo Stefano,Irnerio,IRNERIO-1,60
+87.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+88.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+89.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+91.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+92.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+93.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+94.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+95.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+96.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+97.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+98.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+99.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+100.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+101.0,15,Santo Stefano,Irnerio,IRNERIO-2,61
+102.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+103.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+106.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+107.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+108.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+109.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+110.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+111.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+115.0,14,San Donato - San Vitale,S. Vitale,CIRENAICA,62
+104.0,14,San Donato - San Vitale,S. Vitale,OSPEDALE SANT'ORSOLA,66
+105.0,14,San Donato - San Vitale,S. Vitale,OSPEDALE SANT'ORSOLA,66
+112.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+113.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+114.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+116.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+117.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+118.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+119.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+120.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+121.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+122.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+123.0,14,San Donato - San Vitale,S. Vitale,MENGOLI,67
+124.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+125.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+126.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+128.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+129.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+130.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+131.0,14,San Donato - San Vitale,S. Vitale,GUELFA,68
+127.0,14,San Donato - San Vitale,S. Vitale,SCANDELLARA,63
+132.0,14,San Donato - San Vitale,S. Vitale,VIA LARGA,64
+133.0,14,San Donato - San Vitale,S. Vitale,VIA LARGA,64
+134.0,14,San Donato - San Vitale,S. Vitale,CROCE DEL BIACCO,69
+135.0,14,San Donato - San Vitale,S. Vitale,CROCE DEL BIACCO,69
+437.0,14,San Donato - San Vitale,S. Vitale,CROCE DEL BIACCO,69
+136.0,14,San Donato - San Vitale,S. Vitale,ROVERI,65
+137.0,14,San Donato - San Vitale,S. Vitale,STRADELLI GUELFI,70
+138.0,15,Santo Stefano,Galvani,GALVANI-1,53
+142.0,15,Santo Stefano,Galvani,GALVANI-1,53
+146.0,15,Santo Stefano,Galvani,GALVANI-1,53
+139.0,15,Santo Stefano,Galvani,GALVANI-2,54
+140.0,15,Santo Stefano,Galvani,GALVANI-2,54
+141.0,15,Santo Stefano,Galvani,GALVANI-2,54
+143.0,15,Santo Stefano,Galvani,GALVANI-2,54
+144.0,15,Santo Stefano,Galvani,GALVANI-2,54
+145.0,15,Santo Stefano,Galvani,GALVANI-2,54
+147.0,15,Santo Stefano,Galvani,GALVANI-2,54
+148.0,15,Santo Stefano,Galvani,GALVANI-2,54
+149.0,15,Santo Stefano,Galvani,GALVANI-2,54
+150.0,15,Santo Stefano,Galvani,GALVANI-2,54
+151.0,15,Santo Stefano,Galvani,GALVANI-2,54
+152.0,15,Santo Stefano,Galvani,GALVANI-2,54
+153.0,15,Santo Stefano,Galvani,GALVANI-2,54
+154.0,15,Santo Stefano,Galvani,GALVANI-2,54
+155.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+156.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+157.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+160.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+161.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+162.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+163.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+166.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+167.0,15,Santo Stefano,Murri,MEZZOFANTI,56
+158.0,15,Santo Stefano,Murri,GIARDINI MARGHERITA,55
+159.0,15,Santo Stefano,Murri,SIEPELUNGA,57
+164.0,15,Santo Stefano,Murri,SIEPELUNGA,57
+165.0,15,Santo Stefano,Murri,SIEPELUNGA,57
+168.0,15,Santo Stefano,Murri,SIEPELUNGA,57
+169.0,15,Santo Stefano,Murri,DAGNINI,58
+170.0,15,Santo Stefano,Murri,DAGNINI,58
+171.0,15,Santo Stefano,Murri,DAGNINI,58
+174.0,15,Santo Stefano,Murri,DAGNINI,58
+175.0,15,Santo Stefano,Murri,DAGNINI,58
+178.0,15,Santo Stefano,Murri,DAGNINI,58
+179.0,15,Santo Stefano,Murri,DAGNINI,58
+180.0,15,Santo Stefano,Murri,DAGNINI,58
+181.0,15,Santo Stefano,Murri,DAGNINI,58
+182.0,15,Santo Stefano,Murri,DAGNINI,58
+183.0,15,Santo Stefano,Murri,DAGNINI,58
+184.0,15,Santo Stefano,Murri,DAGNINI,58
+172.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+173.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+176.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+177.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+185.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+186.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+187.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+188.0,15,Santo Stefano,Murri,CHIESANUOVA,59
+189.0,15,Santo Stefano,Colli,SAN MICHELE IN BOSCO,51
+190.0,15,Santo Stefano,Colli,OSSERVANZA,50
+191.0,15,Santo Stefano,Colli,OSSERVANZA,50
+192.0,15,Santo Stefano,Colli,OSSERVANZA,50
+195.0,15,Santo Stefano,Colli,OSSERVANZA,50
+193.0,15,Santo Stefano,Colli,PADERNO,52
+194.0,15,Santo Stefano,Colli,PADERNO,52
+196.0,15,Santo Stefano,Colli,PADERNO,52
+197.0,15,Santo Stefano,Colli,PADERNO,52
+198.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+200.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+201.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+202.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+204.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+205.0,11,Borgo Panigale - Reno,S. Viola,EMILIA PONENTE,40
+199.0,11,Borgo Panigale - Reno,S. Viola,AGUCCHI,39
+206.0,11,Borgo Panigale - Reno,S. Viola,AGUCCHI,39
+207.0,11,Borgo Panigale - Reno,S. Viola,AGUCCHI,39
+208.0,11,Borgo Panigale - Reno,S. Viola,AGUCCHI,39
+209.0,11,Borgo Panigale - Reno,S. Viola,AGUCCHI,39
+203.0,11,Borgo Panigale - Reno,Borgo Panigale,TRIUMVIRATO-PIETRA,9
+238.0,11,Borgo Panigale - Reno,Borgo Panigale,TRIUMVIRATO-PIETRA,9
+239.0,11,Borgo Panigale - Reno,Borgo Panigale,TRIUMVIRATO-PIETRA,9
+241.0,11,Borgo Panigale - Reno,Borgo Panigale,TRIUMVIRATO-PIETRA,9
+242.0,11,Borgo Panigale - Reno,Borgo Panigale,TRIUMVIRATO-PIETRA,9
+210.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+212.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+213.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+214.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+215.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+216.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+220.0,11,Borgo Panigale - Reno,Barca,CANALE DI RENO,38
+211.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+217.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+218.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+219.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+221.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+222.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+223.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+224.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+227.0,11,Borgo Panigale - Reno,Barca,BATTINDARNO,37
+225.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+226.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+228.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+229.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+230.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+231.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+232.0,11,Borgo Panigale - Reno,Barca,VILLAGGIO DELLA BARCA,36
+233.0,11,Borgo Panigale - Reno,Borgo Panigale,CASTELDEBOLE,11
+235.0,11,Borgo Panigale - Reno,Borgo Panigale,CASTELDEBOLE,11
+236.0,11,Borgo Panigale - Reno,Borgo Panigale,CASTELDEBOLE,11
+237.0,11,Borgo Panigale - Reno,Borgo Panigale,CASTELDEBOLE,11
+234.0,11,Borgo Panigale - Reno,Borgo Panigale,RIGOSA,10
+258.0,11,Borgo Panigale - Reno,Borgo Panigale,RIGOSA,10
+259.0,11,Borgo Panigale - Reno,Borgo Panigale,RIGOSA,10
+240.0,11,Borgo Panigale - Reno,Borgo Panigale,LA BIRRA,5
+244.0,11,Borgo Panigale - Reno,Borgo Panigale,LA BIRRA,5
+255.0,11,Borgo Panigale - Reno,Borgo Panigale,LA BIRRA,5
+243.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+245.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+246.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+247.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+248.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+249.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+250.0,11,Borgo Panigale - Reno,Borgo Panigale,BORGO CENTRO,8
+251.0,11,Borgo Panigale - Reno,Borgo Panigale,VIA DEL VIVAIO,2
+257.0,11,Borgo Panigale - Reno,Borgo Panigale,VIA DEL VIVAIO,2
+252.0,11,Borgo Panigale - Reno,Borgo Panigale,DUCATI-VILLAGGIO INA,7
+253.0,11,Borgo Panigale - Reno,Borgo Panigale,DUCATI-VILLAGGIO INA,7
+254.0,11,Borgo Panigale - Reno,Borgo Panigale,DUCATI-VILLAGGIO INA,7
+256.0,11,Borgo Panigale - Reno,Borgo Panigale,BARGELLINO,3
+260.0,12,Navile,Bolognina,EX MERCATO ORTOFRUTTICOLO,16
+274.0,12,Navile,Bolognina,EX MERCATO ORTOFRUTTICOLO,16
+261.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+262.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+263.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+265.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+266.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+267.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+268.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+269.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+272.0,12,Navile,Bolognina,PIAZZA DELL'UNITA',17
+264.0,12,Navile,Bolognina,VIA FERRARESE,15
+273.0,12,Navile,Bolognina,VIA FERRARESE,15
+277.0,12,Navile,Bolognina,VIA FERRARESE,15
+278.0,12,Navile,Bolognina,VIA FERRARESE,15
+281.0,12,Navile,Bolognina,VIA FERRARESE,15
+282.0,12,Navile,Bolognina,VIA FERRARESE,15
+286.0,12,Navile,Bolognina,VIA FERRARESE,15
+287.0,12,Navile,Bolognina,VIA FERRARESE,15
+288.0,12,Navile,Bolognina,VIA FERRARESE,15
+291.0,12,Navile,Bolognina,VIA FERRARESE,15
+292.0,12,Navile,Bolognina,VIA FERRARESE,15
+270.0,12,Navile,Bolognina,ARCOVEGGIO,14
+271.0,12,Navile,Bolognina,ARCOVEGGIO,14
+275.0,12,Navile,Bolognina,ARCOVEGGIO,14
+276.0,12,Navile,Bolognina,ARCOVEGGIO,14
+279.0,12,Navile,Bolognina,ARCOVEGGIO,14
+280.0,12,Navile,Bolognina,ARCOVEGGIO,14
+284.0,12,Navile,Bolognina,ARCOVEGGIO,14
+285.0,12,Navile,Bolognina,ARCOVEGGIO,14
+289.0,12,Navile,Bolognina,ARCOVEGGIO,14
+290.0,12,Navile,Bolognina,ARCOVEGGIO,14
+283.0,12,Navile,Bolognina,CNR,13
+293.0,12,Navile,Bolognina,CASERME ROSSE-MANIFATTURA,12
+294.0,12,Navile,Bolognina,CASERME ROSSE-MANIFATTURA,12
+295.0,12,Navile,Bolognina,CASERME ROSSE-MANIFATTURA,12
+296.0,12,Navile,Corticella,CROCE COPERTA,20
+297.0,12,Navile,Corticella,CROCE COPERTA,20
+298.0,12,Navile,Corticella,CROCE COPERTA,20
+301.0,12,Navile,Corticella,CROCE COPERTA,20
+302.0,12,Navile,Corticella,CROCE COPERTA,20
+303.0,12,Navile,Corticella,CROCE COPERTA,20
+299.0,12,Navile,Corticella,LA DOZZA,22
+300.0,12,Navile,Corticella,SAVENA ABBANDONATO,19
+304.0,12,Navile,Corticella,SAVENA ABBANDONATO,19
+312.0,12,Navile,Corticella,SAVENA ABBANDONATO,19
+305.0,12,Navile,Corticella,SAN SAVINO,18
+306.0,12,Navile,Corticella,SAN SAVINO,18
+307.0,12,Navile,Corticella,SAN SAVINO,18
+308.0,12,Navile,Corticella,SAN SAVINO,18
+309.0,12,Navile,Corticella,SAN SAVINO,18
+310.0,12,Navile,Corticella,SAN SAVINO,18
+311.0,12,Navile,Corticella,SAN SAVINO,18
+313.0,12,Navile,Corticella,SAN SAVINO,18
+314.0,12,Navile,Corticella,SAN SAVINO,18
+315.0,12,Navile,Lame,BEVERARA,28
+317.0,12,Navile,Lame,BEVERARA,28
+318.0,12,Navile,Lame,BEVERARA,28
+319.0,12,Navile,Lame,BEVERARA,28
+320.0,12,Navile,Lame,BEVERARA,28
+323.0,12,Navile,Lame,BEVERARA,28
+316.0,12,Navile,Lame,LAZZARETTO,27
+321.0,12,Navile,Lame,LAZZARETTO,27
+327.0,12,Navile,Lame,LAZZARETTO,27
+322.0,12,Navile,Lame,PESCAROLA,26
+324.0,12,Navile,Lame,PESCAROLA,26
+325.0,12,Navile,Lame,PESCAROLA,26
+326.0,12,Navile,Lame,PESCAROLA,26
+328.0,12,Navile,Lame,LA NOCE,24
+330.0,12,Navile,Lame,LA NOCE,24
+329.0,12,Navile,Lame,LAGHETTI DEL ROSARIO,23
+331.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+332.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+333.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+334.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+338.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+339.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+346.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+347.0,14,San Donato - San Vitale,San Donato,VIA DEL LAVORO,47
+335.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+336.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+337.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+340.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+341.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+342.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+343.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+344.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+345.0,14,San Donato - San Vitale,San Donato,VIA MONDO,49
+348.0,14,San Donato - San Vitale,San Donato,MICHELINO,48
+349.0,14,San Donato - San Vitale,San Donato,MICHELINO,48
+350.0,14,San Donato - San Vitale,San Donato,MICHELINO,48
+352.0,14,San Donato - San Vitale,San Donato,MICHELINO,48
+354.0,14,San Donato - San Vitale,San Donato,MICHELINO,48
+351.0,14,San Donato - San Vitale,San Donato,FIERA,42
+353.0,14,San Donato - San Vitale,San Donato,SAN DONNINO,43
+355.0,14,San Donato - San Vitale,San Donato,SAN DONNINO,43
+356.0,14,San Donato - San Vitale,San Donato,SAN DONNINO,43
+357.0,14,San Donato - San Vitale,San Donato,SAN DONNINO,43
+358.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+359.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+360.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+361.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+362.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+363.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+364.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+365.0,14,San Donato - San Vitale,San Donato,PILASTRO,44
+366.0,14,San Donato - San Vitale,San Donato,CADRIANO-CALAMOSCO,41
+367.0,16,Savena,Mazzini,FOSSOLO,79
+368.0,16,Savena,Mazzini,FOSSOLO,79
+369.0,16,Savena,Mazzini,FOSSOLO,79
+370.0,16,Savena,Mazzini,FOSSOLO,79
+371.0,16,Savena,Mazzini,FOSSOLO,79
+384.0,16,Savena,Mazzini,FOSSOLO,79
+385.0,16,Savena,Mazzini,FOSSOLO,79
+387.0,16,Savena,Mazzini,FOSSOLO,79
+393.0,16,Savena,Mazzini,FOSSOLO,79
+394.0,16,Savena,Mazzini,FOSSOLO,79
+372.0,16,Savena,Mazzini,PONTEVECCHIO,82
+373.0,16,Savena,Mazzini,PONTEVECCHIO,82
+375.0,16,Savena,Mazzini,PONTEVECCHIO,82
+376.0,16,Savena,Mazzini,PONTEVECCHIO,82
+377.0,16,Savena,Mazzini,PONTEVECCHIO,82
+378.0,16,Savena,Mazzini,PONTEVECCHIO,82
+374.0,16,Savena,Mazzini,BITONE,83
+379.0,16,Savena,Mazzini,BITONE,83
+380.0,16,Savena,Mazzini,BITONE,83
+382.0,16,Savena,Mazzini,BITONE,83
+386.0,16,Savena,Mazzini,BITONE,83
+388.0,16,Savena,Mazzini,BITONE,83
+389.0,16,Savena,Mazzini,BITONE,83
+390.0,16,Savena,Mazzini,BITONE,83
+391.0,16,Savena,Mazzini,BITONE,83
+396.0,16,Savena,Mazzini,BITONE,83
+397.0,16,Savena,Mazzini,BITONE,83
+381.0,16,Savena,Mazzini,CAVEDONE,84
+383.0,16,Savena,Mazzini,CAVEDONE,84
+392.0,16,Savena,Mazzini,CAVEDONE,84
+395.0,16,Savena,Mazzini,DUE MADONNE,80
+402.0,16,Savena,Mazzini,DUE MADONNE,80
+403.0,16,Savena,Mazzini,DUE MADONNE,80
+398.0,16,Savena,Mazzini,VIA ARNO,85
+399.0,16,Savena,Mazzini,VIA ARNO,85
+400.0,16,Savena,Mazzini,VIA ARNO,85
+405.0,16,Savena,Mazzini,VIA ARNO,85
+406.0,16,Savena,Mazzini,VIA ARNO,85
+407.0,16,Savena,Mazzini,VIA ARNO,85
+408.0,16,Savena,Mazzini,VIA ARNO,85
+409.0,16,Savena,Mazzini,VIA ARNO,85
+410.0,16,Savena,Mazzini,VIA ARNO,85
+401.0,16,Savena,Mazzini,LUNGO SAVENA,81
+404.0,16,Savena,Mazzini,LUNGO SAVENA,81
+411.0,16,Savena,Mazzini,OSPEDALE BELLARIA,86
+412.0,16,Savena,S. Ruffillo,MONTE DONATO,87
+414.0,16,Savena,S. Ruffillo,MONTE DONATO,87
+432.0,16,Savena,S. Ruffillo,MONTE DONATO,87
+433.0,16,Savena,S. Ruffillo,MONTE DONATO,87
+436.0,16,Savena,S. Ruffillo,MONTE DONATO,87
+413.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+415.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+419.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+422.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+423.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+424.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+428.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+429.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+431.0,16,Savena,S. Ruffillo,VIA TOSCANA,88
+416.0,16,Savena,S. Ruffillo,CORELLI,89
+417.0,16,Savena,S. Ruffillo,CORELLI,89
+418.0,16,Savena,S. Ruffillo,CORELLI,89
+420.0,16,Savena,S. Ruffillo,CORELLI,89
+421.0,16,Savena,S. Ruffillo,CORELLI,89
+425.0,16,Savena,S. Ruffillo,CORELLI,89
+426.0,16,Savena,S. Ruffillo,CORELLI,89
+427.0,16,Savena,S. Ruffillo,CORELLI,89
+434.0,16,Savena,S. Ruffillo,CORELLI,89
+435.0,16,Savena,S. Ruffillo,PONTE SAVENA-LA BASTIA,90

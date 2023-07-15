@@ -6,16 +6,16 @@ Precincts shapefile can be found [here](https://github.com/gabrielepinto/dati-se
 In case you need GeoJSON check  [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali_geojson)
 
 Please remember to cite the source:
- _Pinto, Gabriele, How to build geocoded precinct boundaries from address lists: the Italian case (April 29, 2022). Available at SSRN:_ [https://ssrn.com/abstract=4096926]
+ _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
 # dati e shapefile delle sezioni elettorali italiane (SEI)
 Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova, Firenze, Bologna e Palermo). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
-I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in [questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926):
+I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in [questo paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158):
 
 La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di ricerca e no-profit è permessa a titolo gratuito a conto che la fonte e l'autore siano espressamente citati. Per citare i dati utilizzare la seguente citazione: 
 
- _Pinto, Gabriele, How to build geocoded precinct boundaries from address lists: the Italian case (April 29, 2022). Available at SSRN:_ [https://ssrn.com/abstract=4096926]
+ _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
 L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
 
@@ -32,7 +32,7 @@ Per avere un idea del tipo di dati messo a disposizione è disponibile un app ch
 
 ## shapefile
 Gli shapefile che geolocalizzano le aree in cui sono localizzate le sezioni elettorali possono essere trovate sotto la cartella ![shapefiles sezioni elettorali](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali).
-Per ogni comune, sono presenti due tipi di file: "precincts_voronoi" e "precincts_census". La differenza tra i due file è da ricondurre alle due diverse procedure utilizzate per ricostruire i poligoni nelle sezioni (a partire dai viari elettorali ufficiali forniti dai comuni). Entrambe le procedure sono descritte estensivamente in [questo paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926). Alcuni comuni forniscono lo shapefile originale (es: Firenze e Genova) per questi comuni il nome del file è "precincts_original".  La lista completa può essere trovata nel file ![lista shapefile](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_shapefile.csv)
+Per ogni comune, sono presenti due tipi di file: "precincts_voronoi" e "precincts_census". La differenza tra i due file è da ricondurre alle due diverse procedure utilizzate per ricostruire i poligoni nelle sezioni (a partire dai viari elettorali ufficiali forniti dai comuni). Entrambe le procedure sono descritte estensivamente in [questo paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158). Alcuni comuni forniscono lo shapefile originale (es: Firenze e Genova) per questi comuni il nome del file è "precincts_original".  La lista completa può essere trovata nel file ![lista shapefile](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/anagrafica_shapefile.csv)
 
 ## risultati elettorali
 I risultati elettorali coprono un periodo che va (circa) dal 2001 al 2022 (in costante aggiornamento) per varie tipologie di elezioni a seconda della disponibilità dei dati ufficiali che variano da comune a comune. L'archivio include i risultati a livello di sezione per referendum, voti di preferenza, elezioni sub-comunali (municipi, circoscrizioni, etc...), comunali, politiche, regionali, europee... tutti i file possono essere scaricati dall'archivio in formato rar che trovate ![qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/blob/main/risultati_elettorali.rar): 
@@ -68,7 +68,7 @@ Per due motivi prevalenti:
 6. _Quando verranno resi disponibili i dati di nuove città?_
 a mano a mano che vengono ottenuti i viari elettorali (necessari al fine di costruire i poligoni delle sezioni).
 
-7. _Come vengono implementate le procedure/algoritmi  descritti nel  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096926))?_
+7. _Come vengono implementate le procedure/algoritmi  descritti nel  [paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158) ?_
 Le due procedure sono state codificate in Python e possono essere celermente applicate direttamente al viario elettorale di qualsiasi città.
 
 8. _Si possono coprire tutte le città di Italia con questa procedura?_
