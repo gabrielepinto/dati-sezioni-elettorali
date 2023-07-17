@@ -6,11 +6,7 @@ Precincts shapefile can be found [here](https://github.com/gabrielepinto/dati-se
 In case you need GeoJSON check  [here](https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali_geojson)
 
 Please remember to cite the source:
-<<<<<<< HEAD
  _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
-=======
- _Gabriele Pinto (2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level, Political Research Exchange, 5:1, DOI: 10.1080/2474736X.2023.2185158_
->>>>>>> 10fe85e360987021a26fc3f158f579fb2c5d5361
 
 # dati e shapefile delle sezioni elettorali italiane (SEI)
 Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova, Firenze, Bologna e Palermo). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
