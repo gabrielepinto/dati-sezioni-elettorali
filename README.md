@@ -21,7 +21,7 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti/updates
-ultimo aggiornamento: elezioni regionali 2023. Sono stati aggiunti i risultati per sezioni delle elezioni regionali 2023 nel Lazio e in Lombardia. 
+ultimo aggiornamento: 02/10/2023 aggiunti dati preliminari censimento 2021. 
 !!! in data 16/12/2022 sono stati aggiornati i file dei dati di censimento che contenevano un errore. Inoltre sono stati aggiunti i dati per i censimenti del 1991 e 2001. 
 prossimo aggiornamento: europee 2024
 
