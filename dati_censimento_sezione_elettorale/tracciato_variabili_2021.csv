@@ -1,0 +1,133 @@
+NOME_CAMPO,DEFINIZIONE
+CODREG,Codice numerico che identifica univocamente la regione nell’ambito del territorio nazionale
+REGIONE,Denominazione della regione
+CODPRO,Codice numerico che identifica univocamente la provincia nell’ambito del territorio nazionale
+PROVINCIA,Denominazione della provincia
+CODCOM,Codice numerico che identifica univocamente il comune nell’ambito del territorio provinciale
+COMUNE,Denominazione del comune
+PROCOM,Codice numerico che identifica univocamente il comune nell’ambito del territorio nazionale
+SEZ2011,Codice numerico che identifica univocamente la sezione di censimento 2011 nell’ambito del territorio nazionale. 
+P1,Popolazione residente - totale
+P2,Popolazione residente - maschi
+P3,Popolazione residente - femmine
+P14,Popolazione residente - età < 5 anni
+P15,Popolazione residente - età 5 - 9 anni
+P16,Popolazione residente - età 10 - 14 anni
+P17,Popolazione residente - età 15 - 19 anni
+P18,Popolazione residente - età 20 - 24 anni
+P19,Popolazione residente - età 25 - 29 anni
+P20,Popolazione residente - età 30 - 34 anni
+P21,Popolazione residente - età 35 - 39 anni
+P22,Popolazione residente - età 40 - 44 anni
+P23,Popolazione residente - età 45 - 49 anni
+P24,Popolazione residente - età 50 - 54 anni
+P25,Popolazione residente - età 55 - 59 anni
+P26,Popolazione residente - età 60 - 64 anni
+P27,Popolazione residente - età 65 - 69 anni
+P28,Popolazione residente - età 70 - 74 anni
+P29,Popolazione residente - età > 74 anni
+P30,Popolazione residente - maschi - età < 5 anni
+P31,Popolazione residente - maschi - età 5 - 9 anni
+P32,Popolazione residente - maschi - età 10 - 14 anni
+P33,Popolazione residente - maschi - età 15 - 19 anni
+P34,Popolazione residente - maschi - età 20 - 24 anni
+P35,Popolazione residente - maschi - età 25 - 29 anni
+P36,Popolazione residente - maschi - età 30 - 34 anni
+P37,Popolazione residente - maschi - età 35 - 39 anni
+P38,Popolazione residente - maschi - età 40 - 44 anni
+P39,Popolazione residente - maschi - età 45 - 49 anni
+P40,Popolazione residente - maschi - età 50 - 54 anni
+P41,Popolazione residente - maschi - età 55 - 59 anni
+P42,Popolazione residente - maschi - età 60 - 64 anni
+P43,Popolazione residente - maschi - età 65 - 69 anni
+P44,Popolazione residente - maschi - età 70 - 74 anni
+P45,Popolazione residente - maschi - età > 74 anni
+P67,Popolazione residente - femmine - età < 5 anni
+P68,Popolazione residente - femmine - età 5 - 9 anni
+P69,Popolazione residente - femmine - età 10 - 14 anni
+P70,Popolazione residente - femmine - età 15 - 19 anni
+P71,Popolazione residente - femmine - età 20 - 24 anni
+P72,Popolazione residente - femmine - età 25 - 29 anni
+P73,Popolazione residente - femmine - età 30 - 34 anni
+P74,Popolazione residente - femmine - età 35 - 39 anni
+P75,Popolazione residente - femmine - età 40 - 44 anni
+P76,Popolazione residente - femmine - età 45 - 49 anni
+P77,Popolazione residente - femmine - età 50 - 54 anni
+P78,Popolazione residente - femmine - età 55 - 59 anni
+P79,Popolazione residente - femmine - età 60 - 64 anni
+P80,Popolazione residente - femmine - età 65 - 69 anni
+P81,Popolazione residente - femmine - età 70 - 74 anni
+P82,Popolazione residente - femmine - età > 74 anni
+P83,Popolazione residente - totale di 9 anni e più
+P84,Popolazione residente - maschi di 9 anni e più
+P85,Popolazione residente - femmine di 9 anni e più
+P86,Popolazione residente - totale di 9 anni e più senza titolo di studio
+P87,Popolazione residente - totale di 9 anni e più con licenza elementare
+P88,Popolazione residente - totale di 9 anni e più con licenza media
+P89,Popolazione residente - totale di 9 anni e più con Diploma di scuola secondaria superiore incluse le Qualifiche professionali
+P90,Popolazione residente - totale di 9 anni e più con titoli terziari di primo o secondo livello (inclusi i dottori di ricerca)
+P91,Popolazione residente - maschi di 9 anni e più senza titolo di studio
+P92,Popolazione residente - maschi di 9 anni e più con licenza elementare
+P93,Popolazione residente - maschi di 9 anni e più con licenza media
+P94,Popolazione residente - maschi di 9 anni e più con Diploma di scuola secondaria superiore incluse le Qualifiche professionali
+P95,Popolazione residente - maschi di 9 anni e più con titoli terziari di primo o secondo livello (inclusi i dottori di ricerca)
+P96,Popolazione residente - femmine di 9 anni e più senza titolo di studio
+P97,Popolazione residente - femmine di 9 anni e più con licenza elementare
+P98,Popolazione residente - femmine di 9 anni e più con licenza media
+P99,Popolazione residente - femmine di 9 anni e più con Diploma di scuola secondaria superiore incluse le Qualifiche professionali
+P100,Popolazione residente - femmine di 9 anni e più con titoli terziari di primo o secondo livello (inclusi i dottori di ricerca)
+P101,Popolazione residente - totale occupati di 15-64 anni
+P102,Popolazione residente - maschi occupati di 15-64 anni 
+P103,Popolazione residente - femmine occupate di 15-64 anni 
+IT1,Popolazione residente - italiani - età 0 - 14 anni
+IT2,Popolazione residente - italiani - età 15 - 64 anni
+IT3,Popolazione residente - italiani - età 65 anni e più 
+IT4,Popolazione residente - maschi italiani - età 0 - 14 anni
+IT5,Popolazione residente - maschi  italiani - età 15 - 64 anni
+IT6,Popolazione residente - maschi  italiani - età 65 anni e più 
+IT7,Popolazione residente - femmine italiane - età 0 - 14 anni
+IT8,Popolazione residente - femmine italiane - età 15 - 64 anni
+IT9,Popolazione residente - femmine italiane -età 65 anni e più 
+IT10,Popolazione residente - occupati italiani di 15-64 anni
+IT11,Popolazione residente - occupati italiani maschi di 15-64 anni
+IT12,Popolazione residente - occupate italiane femmine di 15-64 anni
+ST1,Stranieri e apolidi residenti in Italia - totale
+ST2,Stranieri e apolidi residenti in Italia - maschi
+ST2_B,Stranieri e apolidi residenti in Italia - femmine
+ST3,Stranieri e apolidi residenti in Italia - età 0 - 29 anni
+ST4,Stranieri e apolidi residenti in Italia - età 30 - 54 anni
+ST5,Stranieri e apolidi residenti in Italia - età 55 anni e più
+ST16,Stranieri residenti in Italia - totale UE
+ST17,Stranieri residenti in Italia - maschi UE
+ST18,Stranieri residenti in Italia - femmine UE
+ST19,Stranieri residenti in Italia - totale EXTRA UE
+ST20,Stranieri residenti in Italia - maschi EXTRA UE
+ST21,Stranieri residenti in Italia - femmine EXTRA UE
+ST22,Stranieri e apolidi residenti in Italia - età 0 - 14 anni
+ST23,Stranieri e apolidi residenti in Italia - età 15 - 64 anni
+ST24,Stranieri e apolidi residenti in Italia - età 65 anni e più
+ST25,Stranieri e apolidi residenti in Italia - maschi - età 0 - 14 anni
+ST26,Stranieri e apolidi residenti in Italia - maschi - età 15 - 64 anni
+ST27,Stranieri e apolidi residenti in Italia - maschi - età 65 anni e più
+ST28,Stranieri e apolidi residenti in Italia - femmine - età 0 - 14 anni
+ST29,Stranieri e apolidi residenti in Italia - femmine - età 15 - 64 anni
+ST30,Stranieri e apolidi residenti in Italia - femmine - età 65 anni e più
+ST31,Stranieri e apolidi residenti in Italia - occupati - età 15 - 64 anni
+ST32,Stranieri e apolidi residenti in Italia - occupati maschi - età 15 - 64 anni
+ST33,Stranieri e apolidi residenti in Italia - occupate femmine - età 15 - 64 anni
+PF1,Famiglie residenti - totale
+PF3,Famiglie residenti - 1 componente
+PF4,Famiglie residenti - 2 componenti
+PF5,Famiglie residenti - 3 componenti
+PF6,Famiglie residenti - 4 componenti
+PF7,Famiglie residenti - 5 componenti
+PF8,Famiglie residenti - 6 e oltre componenti
+education,tasso laureati P90/P1
+male_share,tasso Maschi P47/P1
+foreigners,tasso stranieri ST1/P1
+employment,tasso occupati P101/P60
+children,tasso famiglie con 1_2 componenti (PF3+PF4)/PF1
+age_over78,tasso over 75 P29/P1
+under_35,under 35 P14-20/P1
+male_not_educated,male_not_educated
+unipersonal_family,unipersonal_family
