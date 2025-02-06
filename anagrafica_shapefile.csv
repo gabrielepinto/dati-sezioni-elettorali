@@ -11,3 +11,5 @@ bologna;precincts_bologna_voronoi;voronoi;https://github.com/gabrielepinto/dati-
 bologna;precincts_bologna_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_bologna_census;
 palermo;precincts_palermo_voronoi;voronoi;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_palermo_voronoi;
 palermo;precincts_palermo_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_palermo_census;
+napoli;precincts_napoli_voronoi;voronoi;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_napoli_voronoi;
+napoli;precincts_napoli_census;census;https://github.com/gabrielepinto/dati-sezioni-elettorali/tree/main/shapefiles_sezioni_elettorali/precincts_napoli_census;
