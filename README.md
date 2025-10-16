@@ -9,7 +9,7 @@ Please remember to cite the source:
  _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
 # dati e shapefile delle sezioni elettorali italiane (SEI)
-Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova, Firenze, Bologna e Palermo). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
+Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova, Firenze, Bologna, Palermo, Bari e Napoli). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
 I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in [questo paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158):
 
@@ -21,9 +21,8 @@ L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non
 
 
 ## aggiornamenti/updates
-ultimo aggiornamento: 02/10/2023 aggiunti dati preliminari censimento 2021. 
-!!! in data 16/12/2022 sono stati aggiornati i file dei dati di censimento che contenevano un errore. Inoltre sono stati aggiunti i dati per i censimenti del 1991 e 2001. 
-prossimo aggiornamento: europee 2024
+ultimo aggiornamento: 05/02/2024 aggiunti dati elezioni europee 2024, e alcuni dati relativi a Bari e Napoli 
+prossimo aggiornamento previsto: giugno 2025
 
 Per vedere la lista completa degli anni/elezioni attualmente disponibili vedi [qui](https://github.com/gabrielepinto/dati-sezioni-elettorali/raw/main/dati_disponibili.xlsx)
 
