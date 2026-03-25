@@ -8,16 +8,23 @@ In case you need GeoJSON check  [here](https://github.com/gabrielepinto/dati-sez
 Please remember to cite the source:
  _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
+
 # dati e shapefile delle sezioni elettorali italiane (SEI)
 Questo repository contiene gli shapefile delle sezioni elettorali italiane (SEI) insieme ad una raccolta dei risultati elettorali a livello di sezione per alcune città italiane (al momento Roma, Milano, Torino, Genova, Firenze, Bologna, Palermo, Bari e Napoli). Il repository è un "work-in-progress" e verrà costantemente aggiornato con altre città/elezioni nel prossimo futuro.
 
 I dati pubblicati in questo repository sono il risultato di un progetto di ricerca la cui metodologia è descritta in [questo paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158):
 
-La diffusione e utilizzo di dei dati contenuti in questo repository per scopi di ricerca e no-profit è permessa a titolo gratuito a conto che la fonte e l'autore siano espressamente citati. Per citare i dati utilizzare la seguente citazione: 
+## Limitazioni e validazioni
+Le aree delle sezioni rappresentano delle stime ricostruite a partire dai viari elettorali dei singoli comuni attraverso un'algoritmo e sono pertanto soggetti ad un margine di errore (stimato nell ordine di un errore mediano di ~100mt tra il centroide stimato e quello teorico). Per approfondimenti si rimanda a [questo paper](https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158) che descrive la procedura, le limitazioni e la validazione dell approccio.
+
+# Licenza/Licence
+i dati contenuti nel repository sono frutto di un lavoro di ricerca svolto presso l'universitá la sapienza e resi disponible con licenza  [CCbySA](https://creativecommons.org/licenses/by-sa/4.0/deed.it). Qualora i dati vengano utilizzati in report, paper o libri si prega di citare il seguente lavoro:
 
  _Gabriele Pinto(2023) Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level,Political Research Exchange,5:1,DOI: 10.1080/2474736X.2023.2185158_ [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
-L'utilizzo dei dati contenuti nel repository per scopi commerciali o similia non è autorizzata senza previa autorizzazione scritta dell'autore.
+ The data contained in the repository are the result of research conducted at Sapienza University and are available under the CCbySA license (https://creativecommons.org/licenses/by-sa/4.0/deed.it). If the data is used in reports, papers, or books, please cite the following work:
+
+Gabriele Pinto (2023) "Sezioni Elettorali Italiane (SEI): a new database of Italian electoral results geocoded at precinct level," Political Research Exchange, 5:1, DOI: 10.1080/2474736X.2023.2185158" [https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2185158]
 
 
 ## aggiornamenti/updates
@@ -84,5 +91,3 @@ Al momento il procedimento non è così automatico per due motivi:
     1. Molti candidati/partiti/liste che partecipano alle elezioni locali non sono presenti nei principali dataset internazionali.
     2. I nomi dei candidati/partiti/liste non sono codificati in modo omogeneo (es: in un dataset ci può essere "PARTITO DEMOCRATICO", in altro "P.DEMOCRATICO"....etc..). Per ora sono stati lasciati così per rendere più facile rintracciare eventuali errori nella fase di pulizia del dato.
 
-12. _Il ministero dell'interno (DAIT-ELIGENDO) non raccoglie i dati a livello di sezione elettorale?_
-Secondo la risposta di un accesso civico il ministero dell'interno sta sperimentando la raccolta dei dati a livello di sezione elettorale. Quando e se questi dati verranno resi disponibili sarà più facile "fondere" gli shapefile con i risultati.
